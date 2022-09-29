@@ -124,6 +124,10 @@ https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truechinesem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truekoreanmore/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TrueXZyte.th" tvg-name="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="Entertainment",True X-Zyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FWMOV" tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuaZW.png" group-title="Entertainment",FWMOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
