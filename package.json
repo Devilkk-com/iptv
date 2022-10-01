@@ -21,6 +21,7 @@
     "iptv-playlist-parser": "^0.12.1",
     "jsdom": "^16.4.0",
     "lodash": "^4.17.21",
+    "node-fetch": "^3.2.10",
     "normalize-url": "^6.1.0",
     "signale": "^1.4.0",
     "transliteration": "^2.2.0"
