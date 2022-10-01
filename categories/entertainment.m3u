@@ -1,0 +1,43 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/natsuki26/iptv/master/guide.xml"
+#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Entertainment",True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truefilmasia/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",True Movie Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/moviehits/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Entertainment",True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truethaifilm/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueSeries.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Entertainment",True Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/trueseries/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",True Film 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/true-filmhd/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueFilm2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",True Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueChineseMore.th" tvg-logo="https://i.imgur.com/FyIzz0l.png" group-title="Entertainment",True Chinese More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truechinesemore/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-logo="https://i.imgur.com/lahGZ0y.png" group-title="Entertainment",True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/hd-asianseries/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueKoreanMore.th" tvg-logo="https://i.imgur.com/Gfn2L5S.png" group-title="Entertainment",True Korean More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truekoreanmore/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueXZyte.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png" group-title="Entertainment",True X-Zyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-logo="" group-title="Entertainment",3BB Asian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/3bbasian/playlist.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/256px-Warner_Channel.svg.png" group-title="Entertainment",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/wbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="FWMOV.th" tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuaZW.png" group-title="Entertainment",FWMOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FWSOV.th" tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuvm1.png" group-title="Entertainment",FWSOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8

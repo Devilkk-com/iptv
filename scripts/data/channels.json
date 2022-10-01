@@ -1,0 +1,434 @@
+[
+  {
+    "id": "NBT2.th",
+    "name": "NBT HD",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/50EIb6z.png"
+  },
+  {
+    "id": "ThaiPBS3.th",
+    "name": "THAI PBS HD",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/OFsQwvv.png"
+  },
+  {
+    "id": "ALTV.th",
+    "name": "ALTV",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/Y6k45Su.png"
+  },
+  {
+    "id": "ThaiTV5HD1.th",
+    "name": "TV5 HD",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/4MIQNPQ.png"
+  },
+  {
+    "id": "TSports7.th",
+    "name": "T Sports 7",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/hnfiUbK.png"
+  },
+  {
+    "id": "TPTV.th",
+    "name": "TPTV",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/Jfdy937.png"
+  },
+  {
+    "id": "TNN16.th",
+    "name": "TNN 16",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/mfVhuRC.png"
+  },
+  {
+    "id": "JKN18.th",
+    "name": "JKN 18",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/zxgCdl0.png"
+  },
+  {
+    "id": "NationTV.th",
+    "name": "Nation TV",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/RULAfjb.png"
+  },
+  {
+    "id": "Workpoint23.th",
+    "name": "Workpoint TV",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/oxf6BRn.png"
+  },
+  {
+    "id": "True4U.th",
+    "name": "True 4U",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/tXb8NiE.png"
+  },
+  {
+    "id": "GMM25.th",
+    "name": "GMM 25",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/sWGT1SD.png"
+  },
+  {
+    "id": "ThaiChannel8.th",
+    "name": "CH 8",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/RSQLFiU.png"
+  },
+  {
+    "id": "Mono29.th",
+    "name": "MONO 29",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/V4VWHiB.png"
+  },
+  {
+    "id": "MCOTHD.th",
+    "name": "MCOT HD",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/S4dSUQ7.png"
+  },
+  {
+    "id": "One31.th",
+    "name": "ONE HD",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/9apyiI0.png"
+  },
+  {
+    "id": "ThairathTV.th",
+    "name": "Thairath TV",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/ArasZJO.png"
+  },
+  {
+    "id": "Channel3.th",
+    "name": "CH3 HD",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/lHbIKfF.png"
+  },
+  {
+    "id": "Amarin34HD.th",
+    "name": "Amarin TV",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/S6gvvf9.png"
+  },
+  {
+    "id": "BBTVChannel7.th",
+    "name": "CH7 HD",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/vxnLkTz.png"
+  },
+  {
+    "id": "PPTVHD36.th",
+    "name": "PPTV HD",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/i4t7Q0C.png"
+  },
+  {
+    "id": "TopNews.th",
+    "name": "Top News",
+    "categories": [
+      "digital_tv"
+    ],
+    "logo": "https://i.imgur.com/YuDZ0ec.png"
+  },
+  {
+    "id": "TrueFilmAsia.th",
+    "name": "True Film Asia",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png"
+  },
+  {
+    "id": "TrueMovieHits.th",
+    "name": "True Movie Hits",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png"
+  },
+  {
+    "id": "TrueThaiFilm.th",
+    "name": "True Thai Film",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png"
+  },
+  {
+    "id": "TrueSeries.th",
+    "name": "True Series",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png"
+  },
+  {
+    "id": "TrueFilm1.th",
+    "name": "True Film 1",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png"
+  },
+  {
+    "id": "TrueFilm2.th",
+    "name": "True Film 2",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png"
+  },
+  {
+    "id": "TrueChineseMore.th",
+    "name": "True Chinese More",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/FyIzz0l.png"
+  },
+  {
+    "id": "TrueAsianMore.th",
+    "name": "True Asian More",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/lahGZ0y.png"
+  },
+  {
+    "id": "TrueKoreanMore.th",
+    "name": "True Korean More",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/Gfn2L5S.png"
+  },
+  {
+    "id": "TrueXZyte.th",
+    "name": "True X-Zyte",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png"
+  },
+  {
+    "id": "3BBAsian.th",
+    "name": "3BB Asian",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": ""
+  },
+  {
+    "id": "WarnerTV.th",
+    "name": "Warner TV",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/256px-Warner_Channel.svg.png"
+  },
+  {
+    "id": "FWMOV.th",
+    "name": "FWMOV",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://sv1.picz.in.th/images/2020/06/18/qyuaZW.png"
+  },
+  {
+    "id": "FWSOV.th",
+    "name": "FWSOV",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://sv1.picz.in.th/images/2020/06/18/qyuvm1.png"
+  },
+  {
+    "id": "DreamWorksChannelAsia.us",
+    "name": "DreamWorks Channel",
+    "categories": [
+      "kids"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png"
+  },
+  {
+    "id": "CartoonNetwork.th",
+    "name": "Cartoon Network",
+    "categories": [
+      "kids"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "id": "NickJr.th",
+    "name": "Nick Jr.",
+    "categories": [
+      "kids"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"
+  },
+  {
+    "id": "TOONEE.th",
+    "name": "TOONEE",
+    "categories": [
+      "kids"
+    ],
+    "logo": "https://i.imgur.com/xOuMEI4.png"
+  },
+  {
+    "id": "CartoonClub.th",
+    "name": "Cartoon Club",
+    "categories": [
+      "kids"
+    ],
+    "logo": "https://i.imgur.com/KL0oitM.png"
+  },
+  {
+    "id": "TrueSparkJump.th",
+    "name": "True Spark Jump",
+    "categories": [
+      "kids"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png"
+  },
+  {
+    "id": "TrueSparkPlay.th",
+    "name": "True Spark Play",
+    "categories": [
+      "kids"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png"
+  },
+  {
+    "id": "FWTOON.th",
+    "name": "FWTOON",
+    "categories": [
+      "kids"
+    ],
+    "logo": "https://sv1.picz.in.th/images/2022/02/21/rZByHg.png"
+  },
+  {
+    "id": "AnimalPlanetHDThailand.th",
+    "name": "Animal Planet",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"
+  },
+  {
+    "id": "DiscoveryChannelThailand.th",
+    "name": "Discovery Channel",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "id": "DiscoveryAsiaThailand.th",
+    "name": "Discovery Asia",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://i.imgur.com/nGTsJlU.png"
+  },
+  {
+    "id": "HistoryAsia.us",
+    "name": "History",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"
+  },
+  {
+    "id": "HistoryAsia2.us",
+    "name": "History 2",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png"
+  },
+  {
+    "id": "NationalGeographicThailand.th",
+    "name": "National Geographic",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
+  },
+  {
+    "id": "TLCSoutheastAsia.us",
+    "name": "TLC",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"
+  },
+  {
+    "id": "TrueExploreWild.th",
+    "name": "True Explore Wild",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png"
+  },
+  {
+    "id": "TrueExploreLife.th",
+    "name": "True Explore Life",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png"
+  },
+  {
+    "id": "TrueExploreSci.th",
+    "name": "True Explore Sci",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png"
+  }
+]

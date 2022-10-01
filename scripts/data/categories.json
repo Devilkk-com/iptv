@@ -1,0 +1,30 @@
+[
+  {
+    "id":"digital_tv",
+    "name":"Digital TV"
+  },
+  {
+    "id":"entertainment",
+    "name":"Entertainment"
+  },
+  {
+    "id":"kids",
+    "name":"Kids"
+  },
+  {
+    "id":"sports",
+    "name":"sports"
+  },
+  {
+    "id":"news",
+    "name":"News"
+  },
+  {
+    "id":"education",
+    "name":"Education"
+  },
+  {
+    "id":"documentary",
+    "name":"Documentary"
+  }
+]

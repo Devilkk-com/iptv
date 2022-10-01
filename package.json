@@ -1,0 +1,28 @@
+{
+  "name": "iptv",
+  "version": "1.0.0",
+  "description": "Thai IPTV M3U Playlist & XMLTV EPG",
+  "repository": "https://github.com/natsuki26/iptv.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/builder.js"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true
+  },
+  "dependencies": {
+    "axios": "^0.21.2",
+    "dayjs": "^1.10.7",
+    "form-data": "^3.0.0",
+    "fs-extra": "^10.0.0",
+    "glob": "^6.0.4",
+    "iptv-checker": "^0.24.5",
+    "iptv-playlist-parser": "^0.12.1",
+    "jsdom": "^16.4.0",
+    "lodash": "^4.17.21",
+    "normalize-url": "^6.1.0",
+    "signale": "^1.4.0",
+    "transliteration": "^2.2.0"
+  }
+}
