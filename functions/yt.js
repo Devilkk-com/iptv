@@ -1,18 +1,35 @@
-const fetch = require("node-fetch");
+const axios = require('axios');
 
-const API_ENDPOINT ='https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA/live';
+exports.handler = async (event, context, callback) => {
+  let channel = event.queryStringParameters.channel
+  let pageUrl = "https://www.youtube.com/c/" + channel + "/live"
+  let streamingUrl = ''
+  let rawData = ''
 
-exports.handler = async (event, context) => {
   try {
-    const response = await fetch(API_ENDPOINT);
-	const text = await response.text()
-	const stream = text.match(/(?<=hlsManifestUrl":").*\.m3u8/g)
-    return { statusCode: 302, body: stream };
+    const response = await axios.get(pageUrl);
+    rawData = response.data;
+
+    streamingUrl = rawData.match(/(?<=hlsManifestUrl":").*\.m3u8/g);
+	//let hasMatch = rawData.includes(".m3u8");
+    console.log(`request ${event.queryStringParameters.channel}\nreturn ${streamingUrl}`);
+	  return {
+		statusCode: 302,
+		headers: {
+		  location: streamingUrl,
+		},
+		body: `Go to ${streamingUrl}`,
+	  };
   } catch (error) {
-    console.log(error);
-    return {
-      statusCode: 500,
-      body: JSON.stringify({ error: 'Failed fetching data' }),
-    };
+    streamingUrl = 'http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8';
+    console.error(`request ${event.queryStringParameters.channel}\nreturn ${error}`);
   }
+
+  return {
+    statusCode: 302,
+    headers: {
+      location: streamingUrl,
+    },
+    body: `Go to ${streamingUrl}`,
+  };
 };
