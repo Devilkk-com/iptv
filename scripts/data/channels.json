@@ -181,7 +181,7 @@
     "categories": [
       "entertainment"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png"
+    "logo": "https://i.imgur.com/kN4Dbhv.png"
   },
   {
     "id": "TrueMovieHits.th",
@@ -189,7 +189,7 @@
     "categories": [
       "entertainment"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png"
+    "logo": "https://i.imgur.com/qSzvmIg.png"
   },
   {
     "id": "TrueThaiFilm.th",
@@ -197,7 +197,7 @@
     "categories": [
       "entertainment"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png"
+    "logo": "https://i.imgur.com/BXIOvwX.png"
   },
   {
     "id": "TrueSeries.th",
@@ -205,7 +205,7 @@
     "categories": [
       "entertainment"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png"
+    "logo": "https://i.imgur.com/gJNWHfU.png"
   },
   {
     "id": "TrueFilm1.th",
@@ -213,7 +213,7 @@
     "categories": [
       "entertainment"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png"
+    "logo": "https://i.imgur.com/9bA4UZm.png"
   },
   {
     "id": "TrueFilm2.th",
@@ -221,7 +221,7 @@
     "categories": [
       "entertainment"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png"
+    "logo": "https://i.imgur.com/Seg3urm.png"
   },
   {
     "id": "TrueChineseMore.th",
@@ -253,7 +253,55 @@
     "categories": [
       "entertainment"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png"
+    "logo": "https://i.imgur.com/Ga4qtwZ.png"
+  },
+  {
+    "id": "TVBXingHe.hk",
+    "name": "TVB Xing He",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/dRZ1OMJ.png"
+  },
+  {
+    "id": "HBO.th",
+    "name": "HBO",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/uGzxmqB.png"
+  },
+  {
+    "id": "HBOSingnature.th",
+    "name": "HBO Singnature",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/CbrrxeZ.png"
+  },
+  {
+    "id": "HBOHits.th",
+    "name": "HBO Hits",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/FSEa3Yh.png"
+  },
+  {
+    "id": "HBOFamily.th",
+    "name": "HBO Family",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/W40RIqy.png"
+  },
+  {
+    "id": "Cinemax.th",
+    "name": "Cinemax",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/Wk4m35x.png"
   },
   {
     "id": "3BBAsian.th",
@@ -261,7 +309,15 @@
     "categories": [
       "entertainment"
     ],
-    "logo": ""
+    "logo": "https://i.imgur.com/Y1p6lx8.png"
+  },
+  {
+    "id": "AXNHDThailand.th",
+    "name": "AXN HD",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/FK5hxP8.png"
   },
   {
     "id": "WarnerTV.th",
@@ -269,7 +325,31 @@
     "categories": [
       "entertainment"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/256px-Warner_Channel.svg.png"
+    "logo": "https://i.imgur.com/zgHNFrm.png"
+  },
+  {
+    "id": "TLCSoutheastAsia.us",
+    "name": "TLC",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/QBdHr5w.png"
+  },
+  {
+    "id": "RockEntertainment.sg",
+    "name": "Rock Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/DwpxJU5.png"
+  },
+  {
+    "id": "RockExtreme.sg",
+    "name": "Rock Extreme",
+    "categories": [
+      "entertainment"
+    ],
+    "logo": "https://i.imgur.com/jrCLMAs.png"
   },
   {
     "id": "FWMOV.th",
@@ -293,7 +373,7 @@
     "categories": [
       "kids"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png"
+    "logo": "https://i.imgur.com/R7VdQFf.png"
   },
   {
     "id": "CartoonNetwork.th",
@@ -301,7 +381,7 @@
     "categories": [
       "kids"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"
+    "logo": "https://i.imgur.com/tZsfaU5.png"
   },
   {
     "id": "NickJr.th",
@@ -309,7 +389,7 @@
     "categories": [
       "kids"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"
+    "logo": "https://i.imgur.com/hbuXcqu.png"
   },
   {
     "id": "TOONEE.th",
@@ -333,7 +413,7 @@
     "categories": [
       "kids"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png"
+    "logo": "https://i.imgur.com/FnsfZf7.png"
   },
   {
     "id": "TrueSparkPlay.th",
@@ -341,7 +421,7 @@
     "categories": [
       "kids"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png"
+    "logo": "https://i.imgur.com/ww6f4Bz.png"
   },
   {
     "id": "FWTOON.th",
@@ -352,20 +432,12 @@
     "logo": "https://sv1.picz.in.th/images/2022/02/21/rZByHg.png"
   },
   {
-    "id": "AnimalPlanetHDThailand.th",
-    "name": "Animal Planet",
-    "categories": [
-      "documentary"
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"
-  },
-  {
     "id": "DiscoveryChannelThailand.th",
     "name": "Discovery Channel",
     "categories": [
       "documentary"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"
+    "logo": "https://i.imgur.com/b6m4WG0.png"
   },
   {
     "id": "DiscoveryAsiaThailand.th",
@@ -376,12 +448,20 @@
     "logo": "https://i.imgur.com/nGTsJlU.png"
   },
   {
+    "id": "NationalGeographicThailand.th",
+    "name": "National Geographic",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://i.imgur.com/u2LV6vQ.png"
+  },
+  {
     "id": "HistoryAsia.us",
     "name": "History",
     "categories": [
       "documentary"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"
+    "logo": "https://i.imgur.com/ihOPhxK.png"
   },
   {
     "id": "HistoryAsia2.us",
@@ -389,23 +469,23 @@
     "categories": [
       "documentary"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png"
+    "logo": "https://i.imgur.com/5vP9FiE.png"
   },
   {
-    "id": "NationalGeographicThailand.th",
-    "name": "National Geographic",
+    "id": "AnimalPlanetHDThailand.th",
+    "name": "Animal Planet",
     "categories": [
       "documentary"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
+    "logo": "https://i.imgur.com/2FESmF6.png"
   },
   {
-    "id": "TLCSoutheastAsia.us",
-    "name": "TLC",
+    "id": "DooneeTV.th",
+    "name": "Doonee TV",
     "categories": [
       "documentary"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"
+    "logo": "https://i.imgur.com/8BwPdKr.png"
   },
   {
     "id": "TrueExploreWild.th",
@@ -413,7 +493,7 @@
     "categories": [
       "documentary"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png"
+    "logo": "https://i.imgur.com/idy7jAY.png"
   },
   {
     "id": "TrueExploreLife.th",
@@ -421,11 +501,19 @@
     "categories": [
       "documentary"
     ],
-    "logo": "https://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png"
+    "logo": "https://i.imgur.com/vkuLiKZ.png"
   },
   {
     "id": "TrueExploreSci.th",
     "name": "True Explore Sci",
+    "categories": [
+      "documentary"
+    ],
+    "logo": "https://i.imgur.com/oGImUZ6.png"
+  },
+  {
+    "id": "Test.th",
+    "name": "Test",
     "categories": [
       "documentary"
     ],

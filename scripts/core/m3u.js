@@ -6,7 +6,7 @@ m3u.create = function (links = [], header = {}) {
 		const value = header[attr]
 		output += ` ${attr}="${value}"`
 	}
-	output += `\n`
+	output += `\n\n`
 
 	for (const link of links) {
 		output += `#EXTINF:-1`
@@ -25,7 +25,7 @@ m3u.create = function (links = [], header = {}) {
 			}
 		}
 
-		output += `${link.url}\n`
+		output += `${link.url}\n\n`
 	}
 
 	return output

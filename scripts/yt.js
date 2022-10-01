@@ -15,7 +15,9 @@ async function getYoutubeStream(id) {
   try {
     const response = await axios.get(url);
     body = response.data;
-	stream = body.match(/(?<=hlsManifestUrl":").*\.m3u8/g);
+	const = body.match(/(?<=hlsManifestUrl":").*\.m3u8/g);
+	stream = url;
+	body = response.data;
   } catch (error) {
     console.log(error);
     return { statusCode: 404, body: `Cannot get data for "${url}"` };
