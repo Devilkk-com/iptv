@@ -1,29 +1,42 @@
-const axios = require('axios');
+/* global addEventListener, Response */
 
-exports.handler = async (event, context, callback) => {
-  let channel = event.queryStringParameters.channel
-  let pageUrl = "https://www.youtube.com/c/" + channel + "/live"
-  let streamingUrl = ''
-  let rawData = ''
+addEventListener('fetch', (event) => {
+  event.respondWith(
+    handleRequest(event.request).catch(
+      (err) => new Response(err.message, { status: 500 })
+    )
+  )
+})
 
-  try {
-    const response = await axios.get(pageUrl);
-    rawData = response.data;
+async function handleRequest (request) {
+  const { pathname } = new URL(request.url)
 
-    streamingUrl = rawData.match(/(?<=hlsManifestUrl":").*\.m3u8/g);
-	//let hasMatch = rawData.includes(".m3u8");
+  if (pathname.startsWith('/channel/')) {
+    // supported api /channel/:id.m3u8
+    const channel = pathname.split('/')?.[2]?.split('.')?.[0]
 
-    console.log(`request ${event.queryStringParameters.channel}\nreturn ${streamingUrl}`);
-  } catch (error) {
-    streamingUrl = 'http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8';
-    console.error(`request ${event.queryStringParameters.channel}\nreturn ${error}`);
+    if (channel !== '') {
+      const url = `https://www.youtube.com/channel/${channel}/live`
+
+      const response = await fetch(url, {
+        cf: {
+          cacheTtl: 10800, // 3 hours
+          cacheEverything: true
+        }
+      })
+
+      if (response.ok) {
+        const text = await response.text()
+        const stream = text.match(/(?<=hlsManifestUrl":").*\.m3u8/g)
+
+        return Response.redirect(stream, 302)
+      } else {
+        throw Error(`Youtube URL (${url}) failed with status: ${response.status}`)
+      }
+    } else {
+      throw Error(`Channel ID not found: ${pathname}`)
+    }
+  } else {
+    throw Error(`Path not found: ${pathname} `)
   }
-
-  return {
-    statusCode: 302,
-    headers: {
-      location: streamingUrl,
-    },
-    body: `Go to ${streamingUrl}`,
-  };
-};
+}
