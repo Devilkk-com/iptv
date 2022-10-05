@@ -7,7 +7,8 @@
 <channel id="BBTVChannel7.th"><display-name>CH7 HD</display-name><icon src="https://i.imgur.com/vxnLkTz.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="CartoonClub.th"><display-name>Cartoon Club</display-name><icon src="https://i.imgur.com/KL0oitM.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="CartoonNetwork.th"><display-name>Cartoon Network</display-name><icon src="https://i.imgur.com/tZsfaU5.png"/><url>https://gigatv.3bb.co.th</url></channel>
-<channel id="Channel3.th"><display-name>Channel 3 HD</display-name><icon src="https://i.imgur.com/lHbIKfF.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="Channel3HD.th"><display-name>Channel 3 HD</display-name><icon src="https://i.imgur.com/lHbIKfF.png"/><url>https://gigatv.3bb.co.th</url></channel>
+<channel id="Channel8.th"><display-name>Channel 8</display-name><icon src="https://i.imgur.com/RSQLFiU.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="Cinemax.th"><display-name>Cinemax</display-name><icon src="https://i.imgur.com/Wk4m35x.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="DiscoveryAsiaThailand.th"><display-name>Discovery Asia</display-name><icon src="https://i.imgur.com/nGTsJlU.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="DiscoveryChannelThailand.th"><display-name>Discovery Channel</display-name><icon src="https://i.imgur.com/b6m4WG0.png"/><url>https://tv.trueid.net</url></channel>
@@ -24,7 +25,7 @@
 <channel id="Mono29.th"><display-name>Mono 29</display-name><icon src="https://i.imgur.com/V4VWHiB.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="NationTV.th"><display-name>Nation TV</display-name><icon src="https://i.imgur.com/RULAfjb.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="NickJr.th"><display-name>Nick Jr.</display-name><icon src="https://i.imgur.com/hbuXcqu.png"/><url>https://gigatv.3bb.co.th</url></channel>
-<channel id="One31.th"><display-name>One 31</display-name><icon src="https://i.imgur.com/9apyiI0.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="One31.th"><display-name>One 31</display-name><icon src="https://i.imgur.com/9apyiI0.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="PPTVHD36.th"><display-name>PPTV HD 36</display-name><icon src="https://i.imgur.com/i4t7Q0C.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="RockEntertainment.sg"><display-name>Rock Entertainment</display-name><icon src="https://i.imgur.com/DwpxJU5.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="RockExtreme.sg"><display-name>Rock Extreme</display-name><icon src="https://i.imgur.com/jrCLMAs.png"/><url>https://tv.trueid.net</url></channel>
@@ -33,16 +34,19 @@
 <channel id="TPTV.th"><display-name>TPTV</display-name><icon src="https://i.imgur.com/Jfdy937.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="TSports7.th"><display-name>T Sports7</display-name><icon src="https://i.imgur.com/hnfiUbK.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="TVBXingHe.hk"><display-name>TVB Xing He</display-name><icon src="https://i.imgur.com/dRZ1OMJ.png"/><url>https://tv.trueid.net</url></channel>
-<channel id="ThaiPBS3.th"><display-name>Thai PBS HD</display-name><icon src="https://i.imgur.com/OFsQwvv.png"/><url>https://gigatv.3bb.co.th</url></channel>
+<channel id="ThaiPBS3.th"><display-name>Thai PBS 3</display-name><icon src="https://i.imgur.com/OFsQwvv.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="ThaiTV5HD1.th"><display-name>Thai TV 5 HD1</display-name><icon src="https://i.imgur.com/4MIQNPQ.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="ThairathTV.th"><display-name>Thiarath TV</display-name><icon src="https://i.imgur.com/ArasZJO.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="TopNews.th"><display-name>Top News</display-name><icon src="https://i.imgur.com/YuDZ0ec.png"/><url>https://gigatv.3bb.co.th</url></channel>
-<channel id="True4U.th"><display-name>True 4U</display-name><icon src="https://i.imgur.com/tXb8NiE.png"/><url>https://gigatv.3bb.co.th</url></channel>
+<channel id="True4U.th"><display-name>True 4U</display-name><icon src="https://i.imgur.com/tXb8NiE.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueAsianMore.th"><display-name>True Asian More</display-name><icon src="https://i.imgur.com/lahGZ0y.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueChineseMore.th"><display-name>True Chinese More</display-name><icon src="https://i.imgur.com/FyIzz0l.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueExploreLife.th"><display-name>True Explore Life</display-name><icon src="https://i.imgur.com/vkuLiKZ.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueExploreSci.th"><display-name>True Explore Sci</display-name><icon src="https://i.imgur.com/oGImUZ6.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueExploreWild.th"><display-name>True Explore Wild</display-name><icon src="https://i.imgur.com/idy7jAY.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueFilmAsian.th"><display-name>True Film Asian</display-name><icon src="https://i.imgur.com/kN4Dbhv.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueFilmHD.th"><display-name>True Film HD</display-name><icon src="https://i.imgur.com/9bA4UZm.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueFilmHD2.th"><display-name>True Film HD 2</display-name><icon src="https://i.imgur.com/Seg3urm.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueKoreanMore.th"><display-name>True Korean More</display-name><icon src="https://i.imgur.com/Gfn2L5S.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueMovieHits.th"><display-name>True Movie Hits</display-name><icon src="https://i.imgur.com/qSzvmIg.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueSeries.th"><display-name>True Series</display-name><icon src="https://i.imgur.com/gJNWHfU.png"/><url>https://tv.trueid.net</url></channel>
@@ -50,6 +54,7 @@
 <channel id="TrueSparkPlay.th"><display-name>True Spark Play</display-name><icon src="https://i.imgur.com/ww6f4Bz.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueThaiFilm.th"><display-name>True Thai Film</display-name><icon src="https://i.imgur.com/BXIOvwX.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueXZyte.th"><display-name>True X-Zyte</display-name><icon src="https://i.imgur.com/Ga4qtwZ.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="WarnerTVSoutheastAsia.us"><display-name>Warner TV HD</display-name><icon src="https://i.imgur.com/zgHNFrm.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="Workpoint23.th"><display-name>Workpoint</display-name><icon src="https://i.imgur.com/oxf6BRn.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <programme start="20221004170000 +0000" stop="20221004190000 +0000" channel="3BBAsian.th"><title lang="th">OH MY GENERAL เมียข้าเป็นท่านแม่ทัพ (ตอน 27-28)</title></programme>
 <programme start="20221004190000 +0000" stop="20221004210000 +0000" channel="3BBAsian.th"><title lang="th">HEARTBREAK HOTEL ล่าแค้น ตะวันเดือด</title></programme>
@@ -732,35 +737,194 @@
 <programme start="20221007140000 +0000" stop="20221007150000 +0000" channel="CartoonNetwork.th"><title lang="th">Dc Super Hero Girls Series</title></programme>
 <programme start="20221007150000 +0000" stop="20221007160000 +0000" channel="CartoonNetwork.th"><title lang="th">Justice League Action</title></programme>
 <programme start="20221007160000 +0000" stop="20221006170000 +0000" channel="CartoonNetwork.th"><title lang="th">Adventure Time</title></programme>
-<programme start="20221004170000 +0000" stop="20221004180000 +0000" channel="Channel3.th"><title lang="th">แชนแนลทรี ซีรีส์ ซุปตาร์ตัวร้ายกับนายต่า</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_000000.jpg"/></programme>
-<programme start="20221004180000 +0000" stop="20221004181200 +0000" channel="Channel3.th"><title lang="th">การ์ตูนแอนิเมชัน สัมมาทิฏฐิ ทะลุมิติมายา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_010000.jpg"/></programme>
-<programme start="20221004181200 +0000" stop="20221004185000 +0000" channel="Channel3.th"><title lang="th">ภ.จีน โจวอิ๋ง สตรีจอมทระนง / โอช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_011200.jpg"/></programme>
-<programme start="20221004185000 +0000" stop="20221004195000 +0000" channel="Channel3.th"><title lang="th">(AD/CC) ละครสะท้อนชีวิต แสงเทียน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_015000.jpg"/></programme>
-<programme start="20221004195000 +0000" stop="20221004212500 +0000" channel="Channel3.th"><title lang="th">ภ.จีน ฟงเสิน ตำนานเทพพิชิตฟ้า</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_025000.jpg"/></programme>
-<programme start="20221004212500 +0000" stop="20221004213000 +0000" channel="Channel3.th"><title lang="th">(AD/CC) ตะวันส่องธรรม</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_042500.jpg"/></programme>
-<programme start="20221004213000 +0000" stop="20221004223000 +0000" channel="Channel3.th"><title lang="th">ขันข่าวเช้าตรู่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_043000.jpg"/></programme>
-<programme start="20221004223000 +0000" stop="20221004230000 +0000" channel="Channel3.th"><title lang="th">เรื่องเล่าหน้าหนึ่ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_053000.jpg"/></programme>
-<programme start="20221004230000 +0000" stop="20221005012000 +0000" channel="Channel3.th"><title lang="th">เรื่องเล่าเช้านี้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_060000.jpg"/></programme>
-<programme start="20221005012000 +0000" stop="20221005012500 +0000" channel="Channel3.th"><title lang="th">The List อัศจรรย์ความรู้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_082000.jpg"/></programme>
-<programme start="20221005012500 +0000" stop="20221005014500 +0000" channel="Channel3.th"><title lang="th">ผู้หญิงยกกำลังเเจ๋ว</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_082500.jpg"/></programme>
-<programme start="20221005014500 +0000" stop="20221005015000 +0000" channel="Channel3.th"><title lang="th">อร่อยเลิศกับคุณหรีด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_084500.jpg"/></programme>
-<programme start="20221005015000 +0000" stop="20221005032500 +0000" channel="Channel3.th"><title lang="th">ละครดังข้ามเวลา รอยฝันตะวันเดือด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_085000.jpg"/></programme>
-<programme start="20221005032500 +0000" stop="20221005035500 +0000" channel="Channel3.th"><title lang="th">ทีเด็ดลูกหนี้ / แฟลช นิวส์ / 5 นาที โปรฯ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_102500.jpg"/></programme>
-<programme start="20221005035500 +0000" stop="20221005042000 +0000" channel="Channel3.th"><title lang="th">โต๊ะแชร์มหาชน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_105500.jpg"/></programme>
-<programme start="20221005042000 +0000" stop="20221005053500 +0000" channel="Channel3.th"><title lang="th">เที่ยงวันทันเหตุการณ์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_112000.jpg"/></programme>
-<programme start="20221005053500 +0000" stop="20221005062500 +0000" channel="Channel3.th"><title lang="th">โหนกระเเส</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_123500.jpg"/></programme>
-<programme start="20221005062500 +0000" stop="20221005063000 +0000" channel="Channel3.th"><title lang="th">บางกอกกระซิบ โว้ว มายา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_132500.jpg"/></programme>
-<programme start="20221005063000 +0000" stop="20221005070000 +0000" channel="Channel3.th"><title lang="th">ครัวคุณต๋อย / แฟลช นิวส์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_133000.jpg"/></programme>
-<programme start="20221005070000 +0000" stop="20221005072000 +0000" channel="Channel3.th"><title lang="th">แซ่บ พาซ่าส์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_140000.jpg"/></programme>
-<programme start="20221005072000 +0000" stop="20221005075000 +0000" channel="Channel3.th"><title lang="th">ข่าว 3 สี / แฟลช นิวส์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_142000.jpg"/></programme>
-<programme start="20221005075000 +0000" stop="20221005093000 +0000" channel="Channel3.th"><title lang="th">ละคร ทองเอก หมอยาท่าโฉลง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_145000.jpg"/></programme>
-<programme start="20221005093000 +0000" stop="20221005110000 +0000" channel="Channel3.th"><title lang="th">เรื่องเด่นเย็นนี้ /อิงลิช ออน ทัวร์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_163000.jpg"/></programme>
-<programme start="20221005110000 +0000" stop="20221005130000 +0000" channel="Channel3.th"><title lang="th">ละคร สองหัวใจนี้เพื่อเธอ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_180000.jpg"/></programme>
-<programme start="20221005130000 +0000" stop="20221005131000 +0000" channel="Channel3.th"><title lang="th">ข่าวนอกลู่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_200000.jpg"/></programme>
-<programme start="20221005131000 +0000" stop="20221005133000 +0000" channel="Channel3.th"><title lang="th">ข่าวในพระราชสำนัก / สีสันบันเทิง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_201000.jpg"/></programme>
-<programme start="20221005133000 +0000" stop="20221005153000 +0000" channel="Channel3.th"><title lang="th">ละคร ซุปตาร์ 2550</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_203000.jpg"/></programme>
-<programme start="20221005153000 +0000" stop="20221005160000 +0000" channel="Channel3.th"><title lang="th">ข่าว 3 มิติ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_223000.jpg"/></programme>
-<programme start="20221005160000 +0000" stop="20221005170000 +0000" channel="Channel3.th"><title lang="th">แชนแนลทรี ซีรีส์ ซุปตาร์ตัวร้ายกับนายต่า</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c03/20221005/20221005_230000.jpg"/></programme>
+<programme start="20221004170000 +0000" stop="20221004180000 +0000" channel="Channel3HD.th"><title lang="th">แชนแนลทรี ซีรีส์ ซุปตาร์ตัวร้ายกับนายต่างดาว / ของฝากนักกอล์ฟ</title></programme>
+<programme start="20221004180000 +0000" stop="20221004181200 +0000" channel="Channel3HD.th"><title lang="th">การ์ตูนแอนิเมชัน สัมมาทิฏฐิ ทะลุมิติมายา</title></programme>
+<programme start="20221004181200 +0000" stop="20221004185000 +0000" channel="Channel3HD.th"><title lang="th">ภ.จีน โจวอิ๋ง สตรีจอมทระนง / โอช้อปปิ้ง</title></programme>
+<programme start="20221004185000 +0000" stop="20221004195000 +0000" channel="Channel3HD.th"><title lang="th">(AD/CC) ละครสะท้อนชีวิต แสงเทียน</title></programme>
+<programme start="20221004195000 +0000" stop="20221004212500 +0000" channel="Channel3HD.th"><title lang="th">ภ.จีน ฟงเสิน ตำนานเทพพิชิตฟ้า / โอช้อปปิ้ง</title></programme>
+<programme start="20221004212500 +0000" stop="20221004213000 +0000" channel="Channel3HD.th"><title lang="th">(AD/CC) ตะวันส่องธรรม</title></programme>
+<programme start="20221004213000 +0000" stop="20221004223000 +0000" channel="Channel3HD.th"><title lang="th">ขันข่าวเช้าตรู่</title></programme>
+<programme start="20221004223000 +0000" stop="20221004230000 +0000" channel="Channel3HD.th"><title lang="th">เรื่องเล่าหน้าหนึ่ง</title></programme>
+<programme start="20221004230000 +0000" stop="20221005012000 +0000" channel="Channel3HD.th"><title lang="th">เรื่องเล่าเช้านี้</title></programme>
+<programme start="20221005012000 +0000" stop="20221005012500 +0000" channel="Channel3HD.th"><title lang="th">The List อัศจรรย์ความรู้</title></programme>
+<programme start="20221005012500 +0000" stop="20221005014500 +0000" channel="Channel3HD.th"><title lang="th">ผู้หญิงยกกำลังเเจ๋ว</title></programme>
+<programme start="20221005014500 +0000" stop="20221005015000 +0000" channel="Channel3HD.th"><title lang="th">อร่อยเลิศกับคุณหรีด</title></programme>
+<programme start="20221005015000 +0000" stop="20221005032500 +0000" channel="Channel3HD.th"><title lang="th">ละครดังข้ามเวลา รอยฝันตะวันเดือด / โอช้อปปิ้ง</title></programme>
+<programme start="20221005032500 +0000" stop="20221005035500 +0000" channel="Channel3HD.th"><title lang="th">ทีเด็ดลูกหนี้ / แฟลช นิวส์ / 5 นาที โปรฯดี โอจัดให้</title></programme>
+<programme start="20221005035500 +0000" stop="20221005042000 +0000" channel="Channel3HD.th"><title lang="th">โต๊ะแชร์มหาชน</title></programme>
+<programme start="20221005042000 +0000" stop="20221005053500 +0000" channel="Channel3HD.th"><title lang="th">เที่ยงวันทันเหตุการณ์</title></programme>
+<programme start="20221005053500 +0000" stop="20221005062500 +0000" channel="Channel3HD.th"><title lang="th">โหนกระเเส</title></programme>
+<programme start="20221005062500 +0000" stop="20221005063000 +0000" channel="Channel3HD.th"><title lang="th">บางกอกกระซิบ โว้ว มายา</title></programme>
+<programme start="20221005063000 +0000" stop="20221005070000 +0000" channel="Channel3HD.th"><title lang="th">ครัวคุณต๋อย / แฟลช นิวส์</title></programme>
+<programme start="20221005070000 +0000" stop="20221005072000 +0000" channel="Channel3HD.th"><title lang="th">แซ่บ พาซ่าส์</title></programme>
+<programme start="20221005072000 +0000" stop="20221005075000 +0000" channel="Channel3HD.th"><title lang="th">ข่าว 3 สี / แฟลช นิวส์</title></programme>
+<programme start="20221005075000 +0000" stop="20221005093000 +0000" channel="Channel3HD.th"><title lang="th">ละคร ทองเอก หมอยา ท่าโฉลง / โอช้อปปิ้ง</title></programme>
+<programme start="20221005093000 +0000" stop="20221005110000 +0000" channel="Channel3HD.th"><title lang="th">เรื่องเด่นเย็นนี้ / อิงลิช ออน ทัวร์</title></programme>
+<programme start="20221005110000 +0000" stop="20221005130000 +0000" channel="Channel3HD.th"><title lang="th">ละคร สองหัวใจนี้เพื่อเธอ</title></programme>
+<programme start="20221005130000 +0000" stop="20221005131000 +0000" channel="Channel3HD.th"><title lang="th">ข่าวนอกลู่</title></programme>
+<programme start="20221005131000 +0000" stop="20221005133000 +0000" channel="Channel3HD.th"><title lang="th">ข่าวในพระราชสำนัก / สีสันบันเทิง / แฟลช นิวส์</title></programme>
+<programme start="20221005133000 +0000" stop="20221005153000 +0000" channel="Channel3HD.th"><title lang="th">ละคร ซุปตาร์ 2550</title></programme>
+<programme start="20221005153000 +0000" stop="20221005160000 +0000" channel="Channel3HD.th"><title lang="th">ข่าว 3 มิติ</title></programme>
+<programme start="20221005160000 +0000" stop="20221004170000 +0000" channel="Channel3HD.th"><title lang="th">แชนแนลทรี ซีรีส์ ซุปตาร์ตัวร้ายกับนายต่างดาว</title></programme>
+<programme start="20221005170000 +0000" stop="20221005173000 +0000" channel="Channel3HD.th"><title lang="th">ช็อต เด็ด คนดัง / ของฝากนักกอล์ฟ</title></programme>
+<programme start="20221005173000 +0000" stop="20221005174200 +0000" channel="Channel3HD.th"><title lang="th">การ์ตูนแอนิเมชัน สัมมาทิฏฐิ ทะลุมิติมายา</title></programme>
+<programme start="20221005174200 +0000" stop="20221005185000 +0000" channel="Channel3HD.th"><title lang="th">ภ.จีน โจวอิ๋ง สตรีจอมทระนง / โอช้อปปิ้ง</title></programme>
+<programme start="20221005185000 +0000" stop="20221005195000 +0000" channel="Channel3HD.th"><title lang="th">(AD/CC) ละครสะท้อนชีวิต แสงเทียน</title></programme>
+<programme start="20221005195000 +0000" stop="20221005212500 +0000" channel="Channel3HD.th"><title lang="th">ภ.จีน ฟงเสิน ตำนานเทพพิชิตฟ้า / โอช้อปปิ้ง</title></programme>
+<programme start="20221005212500 +0000" stop="20221005213000 +0000" channel="Channel3HD.th"><title lang="th">(AD/CC) ตะวันส่องธรรม</title></programme>
+<programme start="20221005213000 +0000" stop="20221005223000 +0000" channel="Channel3HD.th"><title lang="th">ขันข่าวเช้าตรู่</title></programme>
+<programme start="20221005223000 +0000" stop="20221005230000 +0000" channel="Channel3HD.th"><title lang="th">เรื่องเล่าหน้าหนึ่ง</title></programme>
+<programme start="20221005230000 +0000" stop="20221006012500 +0000" channel="Channel3HD.th"><title lang="th">เรื่องเล่าเช้านี้ / เพื่อนคู่คิด</title></programme>
+<programme start="20221006012500 +0000" stop="20221006014500 +0000" channel="Channel3HD.th"><title lang="th">ผู้หญิงยกกำลังเเจ๋ว</title></programme>
+<programme start="20221006014500 +0000" stop="20221006015000 +0000" channel="Channel3HD.th"><title lang="th">อร่อยเลิศกับคุณหรีด</title></programme>
+<programme start="20221006015000 +0000" stop="20221006032500 +0000" channel="Channel3HD.th"><title lang="th">ละครดังข้ามเวลา รอยฝันตะวันเดือด / โอช้อปปิ้ง</title></programme>
+<programme start="20221006032500 +0000" stop="20221006035500 +0000" channel="Channel3HD.th"><title lang="th">ทีเด็ดลูกหนี้ / แฟลช นิวส์ / 5 นาที โปรฯดี โอจัดให้</title></programme>
+<programme start="20221006035500 +0000" stop="20221006042000 +0000" channel="Channel3HD.th"><title lang="th">โต๊ะแชร์มหาชน</title></programme>
+<programme start="20221006042000 +0000" stop="20221006053500 +0000" channel="Channel3HD.th"><title lang="th">เที่ยงวันทันเหตุการณ์</title></programme>
+<programme start="20221006053500 +0000" stop="20221006062500 +0000" channel="Channel3HD.th"><title lang="th">โหนกระเเส</title></programme>
+<programme start="20221006062500 +0000" stop="20221006063000 +0000" channel="Channel3HD.th"><title lang="th">บางกอกกระซิบ โว้ว มายา</title></programme>
+<programme start="20221006063000 +0000" stop="20221006070000 +0000" channel="Channel3HD.th"><title lang="th">ครัวคุณต๋อย / แฟลช นิวส์</title></programme>
+<programme start="20221006070000 +0000" stop="20221006072000 +0000" channel="Channel3HD.th"><title lang="th">แซ่บ พาซ่าส์</title></programme>
+<programme start="20221006072000 +0000" stop="20221006075000 +0000" channel="Channel3HD.th"><title lang="th">ข่าว 3 สี / แฟลช นิวส์</title></programme>
+<programme start="20221006075000 +0000" stop="20221006093000 +0000" channel="Channel3HD.th"><title lang="th">ละคร ทองเอก หมอยา ท่าโฉลง</title></programme>
+<programme start="20221006093000 +0000" stop="20221006110000 +0000" channel="Channel3HD.th"><title lang="th">เรื่องเด่นเย็นนี้ / อิงลิช ออน ทัวร์</title></programme>
+<programme start="20221006110000 +0000" stop="20221006130000 +0000" channel="Channel3HD.th"><title lang="th">ละคร สองหัวใจนี้เพื่อเธอ</title></programme>
+<programme start="20221006130000 +0000" stop="20221006131000 +0000" channel="Channel3HD.th"><title lang="th">ข่าวนอกลู่</title></programme>
+<programme start="20221006131000 +0000" stop="20221006133000 +0000" channel="Channel3HD.th"><title lang="th">ข่าวในพระราชสำนัก / สีสันบันเทิง / แฟลช นิวส์</title></programme>
+<programme start="20221006133000 +0000" stop="20221006153000 +0000" channel="Channel3HD.th"><title lang="th">ละคร ซุปตาร์ 2550</title></programme>
+<programme start="20221006153000 +0000" stop="20221006160000 +0000" channel="Channel3HD.th"><title lang="th">ข่าว 3 มิติ</title></programme>
+<programme start="20221006160000 +0000" stop="20221005170000 +0000" channel="Channel3HD.th"><title lang="th">ชีวิตดี๊ดี / สารคดี รู้ค่าพลังงาน</title></programme>
+<programme start="20221006170000 +0000" stop="20221006173000 +0000" channel="Channel3HD.th"><title lang="th">ชูรัก ชูรส / ของฝากนักกอล์ฟ</title></programme>
+<programme start="20221006173000 +0000" stop="20221006174200 +0000" channel="Channel3HD.th"><title lang="th">การ์ตูนแอนิเมชัน สัมมาทิฏฐิ ทะลุมิติมายา</title></programme>
+<programme start="20221006174200 +0000" stop="20221006185000 +0000" channel="Channel3HD.th"><title lang="th">ภ.จีน โจวอิ๋ง สตรีจอมทระนง / โอช้อปปิ้ง</title></programme>
+<programme start="20221006185000 +0000" stop="20221006195000 +0000" channel="Channel3HD.th"><title lang="th">(AD/CC) ละครสะท้อนชีวิต แสงเทียน</title></programme>
+<programme start="20221006195000 +0000" stop="20221006212500 +0000" channel="Channel3HD.th"><title lang="th">ภ.จีน ฟงเสิน ตำนานเทพพิชิตฟ้า / โอช้อปปิ้ง</title></programme>
+<programme start="20221006212500 +0000" stop="20221006213000 +0000" channel="Channel3HD.th"><title lang="th">(AD/CC) ตะวันส่องธรรม</title></programme>
+<programme start="20221006213000 +0000" stop="20221006223000 +0000" channel="Channel3HD.th"><title lang="th">ขันข่าวเช้าตรู่</title></programme>
+<programme start="20221006223000 +0000" stop="20221006230000 +0000" channel="Channel3HD.th"><title lang="th">เรื่องเล่าหน้าหนึ่ง</title></programme>
+<programme start="20221006230000 +0000" stop="20221007012500 +0000" channel="Channel3HD.th"><title lang="th">เรื่องเล่าเช้านี้ / เพื่อนคู่คิด</title></programme>
+<programme start="20221007012500 +0000" stop="20221007014500 +0000" channel="Channel3HD.th"><title lang="th">ผู้หญิงยกกำลังเเจ๋ว</title></programme>
+<programme start="20221007014500 +0000" stop="20221007015000 +0000" channel="Channel3HD.th"><title lang="th">อร่อยเลิศกับคุณหรีด</title></programme>
+<programme start="20221007015000 +0000" stop="20221007032500 +0000" channel="Channel3HD.th"><title lang="th">ละครดังข้ามเวลา รอยฝันตะวันเดือด / โอช้อปปิ้ง</title></programme>
+<programme start="20221007032500 +0000" stop="20221007035500 +0000" channel="Channel3HD.th"><title lang="th">ทีเด็ดลูกหนี้ / แฟลช นิวส์ / 5 นาที โปรฯดี โอจัดให้</title></programme>
+<programme start="20221007035500 +0000" stop="20221007042000 +0000" channel="Channel3HD.th"><title lang="th">โต๊ะแชร์มหาชน</title></programme>
+<programme start="20221007042000 +0000" stop="20221007053500 +0000" channel="Channel3HD.th"><title lang="th">เที่ยงวันทันเหตุการณ์ / สถานีรักโลก 360 องศา</title></programme>
+<programme start="20221007053500 +0000" stop="20221007062500 +0000" channel="Channel3HD.th"><title lang="th">โหนกระเเส</title></programme>
+<programme start="20221007062500 +0000" stop="20221007063000 +0000" channel="Channel3HD.th"><title lang="th">บางกอกกระซิบ โว้ว มายา</title></programme>
+<programme start="20221007063000 +0000" stop="20221007070000 +0000" channel="Channel3HD.th"><title lang="th">ครัวคุณต๋อย / แฟลช นิวส์</title></programme>
+<programme start="20221007070000 +0000" stop="20221007072000 +0000" channel="Channel3HD.th"><title lang="th">แซ่บ พาซ่าส์</title></programme>
+<programme start="20221007072000 +0000" stop="20221007075000 +0000" channel="Channel3HD.th"><title lang="th">ข่าว 3 สี / แฟลช นิวส์</title></programme>
+<programme start="20221007075000 +0000" stop="20221007093000 +0000" channel="Channel3HD.th"><title lang="th">ละคร ทองเอก หมอยา ท่าโฉลง / โอช้อปปิ้ง</title></programme>
+<programme start="20221007093000 +0000" stop="20221007100000 +0000" channel="Channel3HD.th"><title lang="th">วิก 3 ออนทัวร์ ม่วนคักๆ ฮัก ซิ่ง แซ่บ</title></programme>
+<programme start="20221007100000 +0000" stop="20221007110000 +0000" channel="Channel3HD.th"><title lang="th">เรื่องเด่นเย็นนี้ / อิงลิช ออน ทัวร์</title></programme>
+<programme start="20221007110000 +0000" stop="20221007130000 +0000" channel="Channel3HD.th"><title lang="th">ละคร สองหัวใจนี้เพื่อเธอ / แฟลช นิวส์</title></programme>
+<programme start="20221007130000 +0000" stop="20221007131000 +0000" channel="Channel3HD.th"><title lang="th">ข่าวนอกลู่</title></programme>
+<programme start="20221007131000 +0000" stop="20221007133000 +0000" channel="Channel3HD.th"><title lang="th">ข่าวในพระราชสำนัก / สีสันบันเทิง / แฟลช นิวส์</title></programme>
+<programme start="20221007133000 +0000" stop="20221007153000 +0000" channel="Channel3HD.th"><title lang="th">ละคร ให้รักพิพากษา</title></programme>
+<programme start="20221007153000 +0000" stop="20221007160000 +0000" channel="Channel3HD.th"><title lang="th">ข่าว 3 มิติ</title></programme>
+<programme start="20221007160000 +0000" stop="20221006170000 +0000" channel="Channel3HD.th"><title lang="th">ซีรีส์ ลุ้นรัก 12%</title></programme>
+<programme start="20221004170000 +0000" stop="20221004173000 +0000" channel="Channel8.th"><title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title></programme>
+<programme start="20221004173000 +0000" stop="20221004174000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221004174000 +0000" stop="20221004184000 +0000" channel="Channel8.th"><title lang="th">ละคร ศีรษะมาร</title></programme>
+<programme start="20221004184000 +0000" stop="20221004192500 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title></programme>
+<programme start="20221004192500 +0000" stop="20221004201000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title></programme>
+<programme start="20221004201000 +0000" stop="20221004202000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221004202000 +0000" stop="20221004212000 +0000" channel="Channel8.th"><title lang="th">เรื่องว้าวเล่าโลก (ADCC)</title></programme>
+<programme start="20221004212000 +0000" stop="20221004213000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221004213000 +0000" stop="20221004220000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title></programme>
+<programme start="20221004220000 +0000" stop="20221004223000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title></programme>
+<programme start="20221004223000 +0000" stop="20221004224000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221004224000 +0000" stop="20221005013000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเช้าช่อง 8</title></programme>
+<programme start="20221005013000 +0000" stop="20221005020000 +0000" channel="Channel8.th"><title lang="th">ปากท้องต้องรู้</title></programme>
+<programme start="20221005020000 +0000" stop="20221005021000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221005021000 +0000" stop="20221005024000 +0000" channel="Channel8.th"><title lang="th">อึ้งทึ่งเสียว</title></programme>
+<programme start="20221005024000 +0000" stop="20221005034000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์จีน ลิขิตแห่งจันทรา</title></programme>
+<programme start="20221005034000 +0000" stop="20221005035000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221005035000 +0000" stop="20221005042500 +0000" channel="Channel8.th"><title lang="th">เรื่องว้าวเล่าโลก</title></programme>
+<programme start="20221005042500 +0000" stop="20221005052000 +0000" channel="Channel8.th"><title lang="th">ข่าวใหญ่ช่อง 8</title></programme>
+<programme start="20221005052000 +0000" stop="20221005053000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221005053000 +0000" stop="20221005063000 +0000" channel="Channel8.th"><title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title></programme>
+<programme start="20221005063000 +0000" stop="20221005064000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221005064000 +0000" stop="20221005074000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title></programme>
+<programme start="20221005074000 +0000" stop="20221005075000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221005075000 +0000" stop="20221005085000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title></programme>
+<programme start="20221005085000 +0000" stop="20221005090000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221005090000 +0000" stop="20221005120000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเย็นช่อง 8</title></programme>
+<programme start="20221005120000 +0000" stop="20221005130000 +0000" channel="Channel8.th"><title lang="th">ละคร เสน่ห์นางครวญ</title></programme>
+<programme start="20221005130000 +0000" stop="20221005132000 +0000" channel="Channel8.th"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
+<programme start="20221005132000 +0000" stop="20221005133000 +0000" channel="Channel8.th"><title lang="th">ข่าว 8 BREAKING NEWS</title></programme>
+<programme start="20221005133000 +0000" stop="20221005143000 +0000" channel="Channel8.th"><title lang="th">ละคร เวราอาฆาต</title></programme>
+<programme start="20221005143000 +0000" stop="20221005160000 +0000" channel="Channel8.th"><title lang="th">เกาะติดข่าว 8</title></programme>
+<programme start="20221005160000 +0000" stop="20221005164000 +0000" channel="Channel8.th"><title lang="th">CH8 FIGHT NIGHT ศึกมวยพันธุ์เดือด</title></programme>
+<programme start="20221005164000 +0000" stop="20221004170000 +0000" channel="Channel8.th"><title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title></programme>
+<programme start="20221005170000 +0000" stop="20221005173000 +0000" channel="Channel8.th"><title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title></programme>
+<programme start="20221005173000 +0000" stop="20221005174000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221005174000 +0000" stop="20221005184000 +0000" channel="Channel8.th"><title lang="th">ละคร ศีรษะมาร</title></programme>
+<programme start="20221005184000 +0000" stop="20221005192500 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title></programme>
+<programme start="20221005192500 +0000" stop="20221005201000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title></programme>
+<programme start="20221005201000 +0000" stop="20221005202000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221005202000 +0000" stop="20221005212000 +0000" channel="Channel8.th"><title lang="th">เรื่องว้าวเล่าโลก (ADCC)</title></programme>
+<programme start="20221005212000 +0000" stop="20221005213000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221005213000 +0000" stop="20221005220000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title></programme>
+<programme start="20221005220000 +0000" stop="20221005223000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title></programme>
+<programme start="20221005223000 +0000" stop="20221005224000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221005224000 +0000" stop="20221006013000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเช้าช่อง 8</title></programme>
+<programme start="20221006013000 +0000" stop="20221006020000 +0000" channel="Channel8.th"><title lang="th">ปากท้องต้องรู้</title></programme>
+<programme start="20221006020000 +0000" stop="20221006021000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221006021000 +0000" stop="20221006024000 +0000" channel="Channel8.th"><title lang="th">อึ้งทึ่งเสียว</title></programme>
+<programme start="20221006024000 +0000" stop="20221006034000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์จีน ลิขิตแห่งจันทรา</title></programme>
+<programme start="20221006034000 +0000" stop="20221006035000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221006035000 +0000" stop="20221006042500 +0000" channel="Channel8.th"><title lang="th">เรื่องว้าวเล่าโลก</title></programme>
+<programme start="20221006042500 +0000" stop="20221006052000 +0000" channel="Channel8.th"><title lang="th">ข่าวใหญ่ช่อง 8</title></programme>
+<programme start="20221006052000 +0000" stop="20221006053000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221006053000 +0000" stop="20221006063000 +0000" channel="Channel8.th"><title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title></programme>
+<programme start="20221006063000 +0000" stop="20221006064000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221006064000 +0000" stop="20221006074000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title></programme>
+<programme start="20221006074000 +0000" stop="20221006075000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221006075000 +0000" stop="20221006085000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title></programme>
+<programme start="20221006085000 +0000" stop="20221006090000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221006090000 +0000" stop="20221006120000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเย็นช่อง 8</title></programme>
+<programme start="20221006120000 +0000" stop="20221006130000 +0000" channel="Channel8.th"><title lang="th">ละคร เสน่ห์นางครวญ</title></programme>
+<programme start="20221006130000 +0000" stop="20221006132000 +0000" channel="Channel8.th"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
+<programme start="20221006132000 +0000" stop="20221006133000 +0000" channel="Channel8.th"><title lang="th">ข่าว 8 BREAKING NEWS</title></programme>
+<programme start="20221006133000 +0000" stop="20221006143000 +0000" channel="Channel8.th"><title lang="th">ละคร เวราอาฆาต</title></programme>
+<programme start="20221006143000 +0000" stop="20221006160000 +0000" channel="Channel8.th"><title lang="th">เกาะติดข่าว 8</title></programme>
+<programme start="20221006160000 +0000" stop="20221006164000 +0000" channel="Channel8.th"><title lang="th">CH8 FIGHT NIGHT ศึกมวยพันธุ์เดือด</title></programme>
+<programme start="20221006164000 +0000" stop="20221005170000 +0000" channel="Channel8.th"><title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title></programme>
+<programme start="20221006170000 +0000" stop="20221006173000 +0000" channel="Channel8.th"><title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title></programme>
+<programme start="20221006173000 +0000" stop="20221006174000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221006174000 +0000" stop="20221006184000 +0000" channel="Channel8.th"><title lang="th">ครัวลั่นทุ่ง</title></programme>
+<programme start="20221006184000 +0000" stop="20221006192500 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title></programme>
+<programme start="20221006192500 +0000" stop="20221006201000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title></programme>
+<programme start="20221006201000 +0000" stop="20221006202000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221006202000 +0000" stop="20221006212000 +0000" channel="Channel8.th"><title lang="th">เรื่องว้าวเล่าโลก (ADCC)</title></programme>
+<programme start="20221006212000 +0000" stop="20221006213000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221006213000 +0000" stop="20221006220000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title></programme>
+<programme start="20221006220000 +0000" stop="20221006223000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title></programme>
+<programme start="20221006223000 +0000" stop="20221006224000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221006224000 +0000" stop="20221007013000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเช้าช่อง 8</title></programme>
+<programme start="20221007013000 +0000" stop="20221007020000 +0000" channel="Channel8.th"><title lang="th">ปากท้องต้องรู้</title></programme>
+<programme start="20221007020000 +0000" stop="20221007021000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221007021000 +0000" stop="20221007024000 +0000" channel="Channel8.th"><title lang="th">อึ้งทึ่งเสียว</title></programme>
+<programme start="20221007024000 +0000" stop="20221007034000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์จีน ลิขิตแห่งจันทรา</title></programme>
+<programme start="20221007034000 +0000" stop="20221007035000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221007035000 +0000" stop="20221007042500 +0000" channel="Channel8.th"><title lang="th">เรื่องว้าวเล่าโลก</title></programme>
+<programme start="20221007042500 +0000" stop="20221007052000 +0000" channel="Channel8.th"><title lang="th">ข่าวใหญ่ช่อง 8</title></programme>
+<programme start="20221007052000 +0000" stop="20221007053000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221007053000 +0000" stop="20221007063000 +0000" channel="Channel8.th"><title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title></programme>
+<programme start="20221007063000 +0000" stop="20221007064000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221007064000 +0000" stop="20221007074000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title></programme>
+<programme start="20221007074000 +0000" stop="20221007075000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221007075000 +0000" stop="20221007085000 +0000" channel="Channel8.th"><title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title></programme>
+<programme start="20221007085000 +0000" stop="20221007090000 +0000" channel="Channel8.th"><title lang="th">ชีวิตดี สาระดี</title></programme>
+<programme start="20221007090000 +0000" stop="20221007120000 +0000" channel="Channel8.th"><title lang="th">คุยข่าวเย็นช่อง 8</title></programme>
+<programme start="20221007120000 +0000" stop="20221007130000 +0000" channel="Channel8.th"><title lang="th">มวยมันส์ช่อง 8</title></programme>
+<programme start="20221007130000 +0000" stop="20221007132000 +0000" channel="Channel8.th"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
+<programme start="20221007132000 +0000" stop="20221007133000 +0000" channel="Channel8.th"><title lang="th">ข่าว 8 BREAKING NEWS</title></programme>
+<programme start="20221007133000 +0000" stop="20221007143000 +0000" channel="Channel8.th"><title lang="th">เฉียด</title></programme>
+<programme start="20221007143000 +0000" stop="20221007160000 +0000" channel="Channel8.th"><title lang="th">เกาะติดข่าว 8</title></programme>
+<programme start="20221007160000 +0000" stop="20221007164000 +0000" channel="Channel8.th"><title lang="th">CH8 FIGHT NIGHT ศึกมวยพันธุ์เดือด</title></programme>
+<programme start="20221007164000 +0000" stop="20221006170000 +0000" channel="Channel8.th"><title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title></programme>
 <programme start="20221004174000 +0000" stop="20221004190500 +0000" channel="Cinemax.th"><title lang="th">TORQUE</title></programme>
 <programme start="20221004190500 +0000" stop="20221004204000 +0000" channel="Cinemax.th"><title lang="th">HERCULES เฮอร์คิวลีส</title></programme>
 <programme start="20221004204000 +0000" stop="20221004224500 +0000" channel="Cinemax.th"><title lang="th">SNOW WHITE AND THE HUNTSMAN สโนไวท์ &amp; พรานป่า ในศึกมหัศจรรย์</title></programme>
@@ -2260,36 +2424,93 @@
 <programme start="20221007160000 +0000" stop="20221007162000 +0000" channel="NickJr.th"><title lang="th">PAW Patrol</title></programme>
 <programme start="20221007162000 +0000" stop="20221007164500 +0000" channel="NickJr.th"><title lang="th">PAW Patrol</title></programme>
 <programme start="20221007164500 +0000" stop="20221006171000 +0000" channel="NickJr.th"><title lang="th">PAW Patrol</title></programme>
-<programme start="20221004170000 +0000" stop="20221004172000 +0000" channel="One31.th"><title lang="th">4 ต่อ 4 Celebrity</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_000000.jpg"/></programme>
-<programme start="20221004172000 +0000" stop="20221004174000 +0000" channel="One31.th"><title lang="th">O Shopping</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_002000.jpg"/></programme>
-<programme start="20221004174000 +0000" stop="20221004190500 +0000" channel="One31.th"><title lang="th">ละคร ขอเกิดใหม่ใกล้ๆเธอ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_004000.jpg"/></programme>
-<programme start="20221004190500 +0000" stop="20221004192000 +0000" channel="One31.th"><title lang="th">MV</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_020500.jpg"/></programme>
-<programme start="20221004192000 +0000" stop="20221004200000 +0000" channel="One31.th"><title lang="th">ซิทคอม เพราะมีเธอ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_022000.jpg"/></programme>
-<programme start="20221004200000 +0000" stop="20221004210000 +0000" channel="One31.th"><title lang="th">วันนี้มีธรรม ปี 2</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_030000.jpg"/></programme>
-<programme start="20221004210000 +0000" stop="20221004211000 +0000" channel="One31.th"><title lang="th">O Shopping</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_040000.jpg"/></programme>
-<programme start="20221004211000 +0000" stop="20221004223000 +0000" channel="One31.th"><title lang="th">ดวลเพลงชิงทุน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_041000.jpg"/></programme>
-<programme start="20221004223000 +0000" stop="20221004232000 +0000" channel="One31.th"><title lang="th">เช้าวันใหม่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_053000.jpg"/></programme>
-<programme start="20221004232000 +0000" stop="20221005005000 +0000" channel="One31.th"><title lang="th">ข่าวเช้าช่องวัน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_062000.jpg"/></programme>
-<programme start="20221005005000 +0000" stop="20221005010000 +0000" channel="One31.th"><title lang="th">วันรับแขก เช้า</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_075000.jpg"/></programme>
-<programme start="20221005010000 +0000" stop="20221005033000 +0000" channel="One31.th"><title lang="th">ละคร เรือนเสน่หา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_080000.jpg"/></programme>
-<programme start="20221005033000 +0000" stop="20221005041500 +0000" channel="One31.th"><title lang="th">Daily show</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_103000.jpg"/></programme>
-<programme start="20221005041500 +0000" stop="20221005053000 +0000" channel="One31.th"><title lang="th">ข่าวเที่ยงช่องวัน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_111500.jpg"/></programme>
-<programme start="20221005053000 +0000" stop="20221005061000 +0000" channel="One31.th"><title lang="th">One บันเทิง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_123000.jpg"/></programme>
-<programme start="20221005061000 +0000" stop="20221005061700 +0000" channel="One31.th"><title lang="th">วันรับแขก เที่ยง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_131000.jpg"/></programme>
-<programme start="20221005061700 +0000" stop="20221005071000 +0000" channel="One31.th"><title lang="th">คุยแซ่บshow</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_131700.jpg"/></programme>
-<programme start="20221005071000 +0000" stop="20221005074500 +0000" channel="One31.th"><title lang="th">เรื่องเด่นเล่นใหญ่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_141000.jpg"/></programme>
-<programme start="20221005074500 +0000" stop="20221005092500 +0000" channel="One31.th"><title lang="th">ละคร แต่ปางก่อน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_144500.jpg"/></programme>
-<programme start="20221005092500 +0000" stop="20221005110000 +0000" channel="One31.th"><title lang="th">ข่าวเย็นช่องวัน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_162500.jpg"/></programme>
-<programme start="20221005110000 +0000" stop="20221005120000 +0000" channel="One31.th"><title lang="th">ดวลเพลงชิงทุน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_180000.jpg"/></programme>
-<programme start="20221005120000 +0000" stop="20221005125500 +0000" channel="One31.th"><title lang="th">ละคร เจ้าสาวยืนหนึ่ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_190000.jpg"/></programme>
-<programme start="20221005125500 +0000" stop="20221005130000 +0000" channel="One31.th"><title lang="th">ข่าวค่ำช่องวัน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_195500.jpg"/></programme>
-<programme start="20221005130000 +0000" stop="20221005131000 +0000" channel="One31.th"><title lang="th">ข่าวในพระราชสำนัก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_200000.jpg"/></programme>
-<programme start="20221005131000 +0000" stop="20221005132800 +0000" channel="One31.th"><title lang="th">ข่าวค่ำช่องวัน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_201000.jpg"/></programme>
-<programme start="20221005132800 +0000" stop="20221005133000 +0000" channel="One31.th"><title lang="th">นาทีบันเทิง ค่ำ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_202800.jpg"/></programme>
-<programme start="20221005133000 +0000" stop="20221005150000 +0000" channel="One31.th"><title lang="th">ละคร สายรุ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_203000.jpg"/></programme>
-<programme start="20221005150000 +0000" stop="20221005154000 +0000" channel="One31.th"><title lang="th">เอาให้ชัด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_220000.jpg"/></programme>
-<programme start="20221005154000 +0000" stop="20221005162000 +0000" channel="One31.th"><title lang="th">Sound Check</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_224000.jpg"/></programme>
-<programme start="20221005162000 +0000" stop="20221005170000 +0000" channel="One31.th"><title lang="th">สุภาพบุรุษสุดซอย ปี 65</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/d56/20221005/20221005_232000.jpg"/></programme>
+<programme start="20221004170000 +0000" stop="20221004172000 +0000" channel="One31.th"><title lang="th">4ต่อ4 CELEBRITY</title></programme>
+<programme start="20221004172000 +0000" stop="20221004174000 +0000" channel="One31.th"><title lang="th">O SHOPPING</title></programme>
+<programme start="20221004174000 +0000" stop="20221004190500 +0000" channel="One31.th"><title lang="th">ละคร ขอเกิดใหม่ใกล้ๆ เธอ</title></programme>
+<programme start="20221004190500 +0000" stop="20221004192000 +0000" channel="One31.th"><title lang="th">MV</title></programme>
+<programme start="20221004192000 +0000" stop="20221004200000 +0000" channel="One31.th"><title lang="th">ซิทคอม เพราะมีเธอ</title></programme>
+<programme start="20221004200000 +0000" stop="20221004210000 +0000" channel="One31.th"><title lang="th">วันนี้มีธรรม (S2)</title></programme>
+<programme start="20221004210000 +0000" stop="20221004211000 +0000" channel="One31.th"><title lang="th">O SHOPPING</title></programme>
+<programme start="20221004211000 +0000" stop="20221004223000 +0000" channel="One31.th"><title lang="th">ดวลเพลงชิงทุน</title></programme>
+<programme start="20221004223000 +0000" stop="20221004232000 +0000" channel="One31.th"><title lang="th">เช้าวันใหม่</title></programme>
+<programme start="20221004232000 +0000" stop="20221005005000 +0000" channel="One31.th"><title lang="th">ข่าวเช้าช่องวัน</title></programme>
+<programme start="20221005005000 +0000" stop="20221005010000 +0000" channel="One31.th"><title lang="th">วันรับแขก เช้า</title></programme>
+<programme start="20221005010000 +0000" stop="20221005033000 +0000" channel="One31.th"><title lang="th">ละคร เรือนเสน่หา</title></programme>
+<programme start="20221005033000 +0000" stop="20221005041500 +0000" channel="One31.th"><title lang="th">Daily show</title></programme>
+<programme start="20221005041500 +0000" stop="20221005053000 +0000" channel="One31.th"><title lang="th">ข่าวเที่ยงช่องวัน</title></programme>
+<programme start="20221005053000 +0000" stop="20221005061000 +0000" channel="One31.th"><title lang="th">one บันเทิง</title></programme>
+<programme start="20221005061000 +0000" stop="20221005061700 +0000" channel="One31.th"><title lang="th">วันรับแขก เที่ยง</title></programme>
+<programme start="20221005061700 +0000" stop="20221005071000 +0000" channel="One31.th"><title lang="th">คุยแซ่บ Show</title></programme>
+<programme start="20221005071000 +0000" stop="20221005074500 +0000" channel="One31.th"><title lang="th">เรื่องเด่นเล่นใหญ่</title></programme>
+<programme start="20221005074500 +0000" stop="20221005092500 +0000" channel="One31.th"><title lang="th">ละคร แต่ปางก่อน</title></programme>
+<programme start="20221005092500 +0000" stop="20221005110000 +0000" channel="One31.th"><title lang="th">ข่าวเย็นช่องวัน</title></programme>
+<programme start="20221005110000 +0000" stop="20221005120000 +0000" channel="One31.th"><title lang="th">ดวลเพลงชิงทุน</title></programme>
+<programme start="20221005120000 +0000" stop="20221005125500 +0000" channel="One31.th"><title lang="th">ละคร เจ้าสาวยืนหนึ่ง</title></programme>
+<programme start="20221005125500 +0000" stop="20221005130000 +0000" channel="One31.th"><title lang="th">ข่าวค่ำช่องวัน</title></programme>
+<programme start="20221005130000 +0000" stop="20221005131000 +0000" channel="One31.th"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
+<programme start="20221005131000 +0000" stop="20221005132800 +0000" channel="One31.th"><title lang="th">ข่าวค่ำช่องวัน</title></programme>
+<programme start="20221005132800 +0000" stop="20221005133000 +0000" channel="One31.th"><title lang="th">นาทีบันเทิง ค่ำ</title></programme>
+<programme start="20221005133000 +0000" stop="20221005150000 +0000" channel="One31.th"><title lang="th">ละคร สายรุ้ง</title></programme>
+<programme start="20221005150000 +0000" stop="20221005154000 +0000" channel="One31.th"><title lang="th">เอาให้ชัด</title></programme>
+<programme start="20221005154000 +0000" stop="20221005162000 +0000" channel="One31.th"><title lang="th">Sound Check</title></programme>
+<programme start="20221005162000 +0000" stop="20221004170000 +0000" channel="One31.th"><title lang="th">สุภาพบุรุษสุดซอย ปี 65</title></programme>
+<programme start="20221005170000 +0000" stop="20221005172000 +0000" channel="One31.th"><title lang="th">สุภาพบุรุษสุดซอย ปี 65</title></programme>
+<programme start="20221005172000 +0000" stop="20221005174000 +0000" channel="One31.th"><title lang="th">O SHOPPING</title></programme>
+<programme start="20221005174000 +0000" stop="20221005190500 +0000" channel="One31.th"><title lang="th">ละคร ขอเกิดใหม่ใกล้ๆ เธอ</title></programme>
+<programme start="20221005190500 +0000" stop="20221005192000 +0000" channel="One31.th"><title lang="th">MV</title></programme>
+<programme start="20221005192000 +0000" stop="20221005200000 +0000" channel="One31.th"><title lang="th">ซิทคอม เพราะมีเธอ</title></programme>
+<programme start="20221005200000 +0000" stop="20221005210000 +0000" channel="One31.th"><title lang="th">วันนี้มีธรรม (S2)</title></programme>
+<programme start="20221005210000 +0000" stop="20221005211000 +0000" channel="One31.th"><title lang="th">O SHOPPING</title></programme>
+<programme start="20221005211000 +0000" stop="20221005223000 +0000" channel="One31.th"><title lang="th">ดวลเพลงชิงทุน</title></programme>
+<programme start="20221005223000 +0000" stop="20221005232000 +0000" channel="One31.th"><title lang="th">เช้าวันใหม่</title></programme>
+<programme start="20221005232000 +0000" stop="20221006005000 +0000" channel="One31.th"><title lang="th">ข่าวเช้าช่องวัน</title></programme>
+<programme start="20221006005000 +0000" stop="20221006010000 +0000" channel="One31.th"><title lang="th">วันรับแขก เช้า</title></programme>
+<programme start="20221006010000 +0000" stop="20221006033000 +0000" channel="One31.th"><title lang="th">ละคร เรือนร้อยรัก</title></programme>
+<programme start="20221006033000 +0000" stop="20221006041500 +0000" channel="One31.th"><title lang="th">Daily show</title></programme>
+<programme start="20221006041500 +0000" stop="20221006053000 +0000" channel="One31.th"><title lang="th">ข่าวเที่ยงช่องวัน</title></programme>
+<programme start="20221006053000 +0000" stop="20221006061000 +0000" channel="One31.th"><title lang="th">one บันเทิง</title></programme>
+<programme start="20221006061000 +0000" stop="20221006061700 +0000" channel="One31.th"><title lang="th">วันรับแขก เที่ยง</title></programme>
+<programme start="20221006061700 +0000" stop="20221006071000 +0000" channel="One31.th"><title lang="th">คุยแซ่บ Show</title></programme>
+<programme start="20221006071000 +0000" stop="20221006074500 +0000" channel="One31.th"><title lang="th">เรื่องเด่นเล่นใหญ่</title></programme>
+<programme start="20221006074500 +0000" stop="20221006092500 +0000" channel="One31.th"><title lang="th">ละคร แต่ปางก่อน</title></programme>
+<programme start="20221006092500 +0000" stop="20221006110000 +0000" channel="One31.th"><title lang="th">ข่าวเย็นช่องวัน</title></programme>
+<programme start="20221006110000 +0000" stop="20221006120000 +0000" channel="One31.th"><title lang="th">ดวลเพลงชิงทุน</title></programme>
+<programme start="20221006120000 +0000" stop="20221006125500 +0000" channel="One31.th"><title lang="th">ละคร เจ้าสาวยืนหนึ่ง</title></programme>
+<programme start="20221006125500 +0000" stop="20221006130000 +0000" channel="One31.th"><title lang="th">ข่าวค่ำช่องวัน</title></programme>
+<programme start="20221006130000 +0000" stop="20221006131000 +0000" channel="One31.th"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
+<programme start="20221006131000 +0000" stop="20221006132800 +0000" channel="One31.th"><title lang="th">ข่าวค่ำช่องวัน</title></programme>
+<programme start="20221006132800 +0000" stop="20221006133000 +0000" channel="One31.th"><title lang="th">นาทีบันเทิง ค่ำ</title></programme>
+<programme start="20221006133000 +0000" stop="20221006150000 +0000" channel="One31.th"><title lang="th">ละคร สายรุ้ง</title></programme>
+<programme start="20221006150000 +0000" stop="20221006154000 +0000" channel="One31.th"><title lang="th">เอาให้ชัด</title></programme>
+<programme start="20221006154000 +0000" stop="20221006162000 +0000" channel="One31.th"><title lang="th">Sound Check</title></programme>
+<programme start="20221006162000 +0000" stop="20221005170000 +0000" channel="One31.th"><title lang="th">เป็นต่อ ปี 65</title></programme>
+<programme start="20221006170000 +0000" stop="20221006172000 +0000" channel="One31.th"><title lang="th">เป็นต่อ ปี 65</title></programme>
+<programme start="20221006172000 +0000" stop="20221006174000 +0000" channel="One31.th"><title lang="th">O SHOPPING</title></programme>
+<programme start="20221006174000 +0000" stop="20221006191500 +0000" channel="One31.th"><title lang="th">ละคร ขอเกิดใหม่ใกล้ๆ เธอ</title></programme>
+<programme start="20221006191500 +0000" stop="20221006192000 +0000" channel="One31.th"><title lang="th">MV</title></programme>
+<programme start="20221006192000 +0000" stop="20221006200000 +0000" channel="One31.th"><title lang="th">ซิทคอม เพราะมีเธอ</title></programme>
+<programme start="20221006200000 +0000" stop="20221006210000 +0000" channel="One31.th"><title lang="th">วันนี้มีธรรม (S2)</title></programme>
+<programme start="20221006210000 +0000" stop="20221006211000 +0000" channel="One31.th"><title lang="th">O SHOPPING</title></programme>
+<programme start="20221006211000 +0000" stop="20221006223000 +0000" channel="One31.th"><title lang="th">ดวลเพลงชิงทุน</title></programme>
+<programme start="20221006223000 +0000" stop="20221006232000 +0000" channel="One31.th"><title lang="th">เช้าวันใหม่</title></programme>
+<programme start="20221006232000 +0000" stop="20221007005000 +0000" channel="One31.th"><title lang="th">ข่าวเช้าช่องวัน</title></programme>
+<programme start="20221007005000 +0000" stop="20221007010000 +0000" channel="One31.th"><title lang="th">วันรับแขก เช้า</title></programme>
+<programme start="20221007010000 +0000" stop="20221007033000 +0000" channel="One31.th"><title lang="th">ละคร เรือนร้อยรัก</title></programme>
+<programme start="20221007033000 +0000" stop="20221007041500 +0000" channel="One31.th"><title lang="th">Daily show</title></programme>
+<programme start="20221007041500 +0000" stop="20221007053000 +0000" channel="One31.th"><title lang="th">ข่าวเที่ยงช่องวัน</title></programme>
+<programme start="20221007053000 +0000" stop="20221007061000 +0000" channel="One31.th"><title lang="th">one บันเทิง</title></programme>
+<programme start="20221007061000 +0000" stop="20221007061700 +0000" channel="One31.th"><title lang="th">วันรับแขก เที่ยง</title></programme>
+<programme start="20221007061700 +0000" stop="20221007071000 +0000" channel="One31.th"><title lang="th">คุยแซ่บ Show</title></programme>
+<programme start="20221007071000 +0000" stop="20221007074500 +0000" channel="One31.th"><title lang="th">เรื่องเด่นเล่นใหญ่</title></programme>
+<programme start="20221007074500 +0000" stop="20221007085500 +0000" channel="One31.th"><title lang="th">ละคร แต่ปางก่อน (ตอนอวสาน)</title></programme>
+<programme start="20221007085500 +0000" stop="20221007092500 +0000" channel="One31.th"><title lang="th">ละคร บัลลังก์เมฆ (ตอนแรก)</title></programme>
+<programme start="20221007092500 +0000" stop="20221007110000 +0000" channel="One31.th"><title lang="th">ข่าวเย็นช่องวัน</title></programme>
+<programme start="20221007110000 +0000" stop="20221007120000 +0000" channel="One31.th"><title lang="th">ดวลเพลงชิงทุน</title></programme>
+<programme start="20221007120000 +0000" stop="20221007125500 +0000" channel="One31.th"><title lang="th">ละคร เจ้าสาวยืนหนึ่ง</title></programme>
+<programme start="20221007125500 +0000" stop="20221007141500 +0000" channel="One31.th"><title lang="th">ข่าววันศุกร์ / ข่าวในพระราชสำนัก</title></programme>
+<programme start="20221007141500 +0000" stop="20221007153000 +0000" channel="One31.th"><title lang="th">Club Friday The Series Love &amp; Belief ตอน ทะเบียนสมรส</title></programme>
+<programme start="20221007153000 +0000" stop="20221007163000 +0000" channel="One31.th"><title lang="th">เป็นต่อ ปี 65</title></programme>
+<programme start="20221007163000 +0000" stop="20221006170000 +0000" channel="One31.th"><title lang="th">ละคร ขอเกิดใหม่ใกล้ๆ เธอ</title></programme>
 <programme start="20221004170000 +0000" stop="20221004171500 +0000" channel="PPTVHD36.th"><title lang="th">PP Shop สุขภาพดี ... สั่งได้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/da7/20221005/20221005_000000.jpg"/></programme>
 <programme start="20221004171500 +0000" stop="20221004173500 +0000" channel="PPTVHD36.th"><title lang="th">True Shopping</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/da7/20221005/20221005_001500.jpg"/></programme>
 <programme start="20221004173500 +0000" stop="20221004174500 +0000" channel="PPTVHD36.th"><title lang="th">การ์ตูนแอนนิเมชันเรื่อง สัมมาทิฏฐิ ทะลุม</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/da7/20221005/20221005_003500.jpg"/></programme>
@@ -2955,6 +3176,96 @@
 <programme start="20221007160000 +0000" stop="20221007163000 +0000" channel="TVBXingHe.hk"><title lang="th">Ol Supreme</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/st008/20221007/20221007_230000.jpg"/></programme>
 <programme start="20221007163000 +0000" stop="20221007173000 +0000" channel="TVBXingHe.hk"><title lang="th">Song Bird</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/st008/20221007/20221007_233000.jpg"/></programme>
 
+<programme start="20221004170000 +0000" stop="20221004173000 +0000" channel="ThaiPBS3.th"><title lang="th">ดูให้รู้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_000000.jpg"/></programme>
+<programme start="20221004173000 +0000" stop="20221004180000 +0000" channel="ThaiPBS3.th"><title lang="th">Foodwork</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_003000.jpg"/></programme>
+<programme start="20221004180000 +0000" stop="20221004220000 +0000" channel="ThaiPBS3.th"><title lang="th">ปิดสถานี</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_010000.jpg"/></programme>
+<programme start="20221004220000 +0000" stop="20221005000000 +0000" channel="ThaiPBS3.th"><title lang="th">วันใหม่ ไทยพีบีเอส</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_050000.jpg"/></programme>
+<programme start="20221005000000 +0000" stop="20221005010000 +0000" channel="ThaiPBS3.th"><title lang="th">มุมการเมือง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_070000.jpg"/></programme>
+<programme start="20221005010000 +0000" stop="20221005030000 +0000" channel="ThaiPBS3.th"><title lang="th">วันใหม่วาไรตี้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_080000.jpg"/></programme>
+<programme start="20221005030000 +0000" stop="20221005033000 +0000" channel="ThaiPBS3.th"><title lang="th">ไทยบันเทิง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_100000.jpg"/></programme>
+<programme start="20221005033000 +0000" stop="20221005050000 +0000" channel="ThaiPBS3.th"><title lang="th">จับตาสถานการณ์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_103000.jpg"/></programme>
+<programme start="20221005050000 +0000" stop="20221005053000 +0000" channel="ThaiPBS3.th"><title lang="th">ตรงประเด็น</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_120000.jpg"/></programme>
+<programme start="20221005053000 +0000" stop="20221005060000 +0000" channel="ThaiPBS3.th"><title lang="th">Spirit of Asia วิถีเอเชีย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_123000.jpg"/></programme>
+<programme start="20221005060000 +0000" stop="20221005063000 +0000" channel="ThaiPBS3.th"><title lang="th">จับตารอบทิศ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_130000.jpg"/></programme>
+<programme start="20221005063000 +0000" stop="20221005070000 +0000" channel="ThaiPBS3.th"><title lang="th">Backpack Journalist</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_133000.jpg"/></programme>
+<programme start="20221005070000 +0000" stop="20221005070500 +0000" channel="ThaiPBS3.th"><title lang="th">ทันข่าว 14.00 น.</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_140000.jpg"/></programme>
+<programme start="20221005070500 +0000" stop="20221005080000 +0000" channel="ThaiPBS3.th"><title lang="th">สถานีประชาชน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_140500.jpg"/></programme>
+<programme start="20221005080000 +0000" stop="20221005080500 +0000" channel="ThaiPBS3.th"><title lang="th">ทันข่าว 15.00 น.</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_150000.jpg"/></programme>
+<programme start="20221005080500 +0000" stop="20221005083000 +0000" channel="ThaiPBS3.th"><title lang="th">คนสู้โรค</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_150500.jpg"/></programme>
+<programme start="20221005083000 +0000" stop="20221005090000 +0000" channel="ThaiPBS3.th"><title lang="th">ทุกทิศทั่วไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_153000.jpg"/></programme>
+<programme start="20221005090000 +0000" stop="20221005093000 +0000" channel="ThaiPBS3.th"><title lang="th">ข่าว 16.00 น.</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_160000.jpg"/></programme>
+<programme start="20221005093000 +0000" stop="20221005100000 +0000" channel="ThaiPBS3.th"><title lang="th">Foodwork</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_163000.jpg"/></programme>
+<programme start="20221005100000 +0000" stop="20221005102500 +0000" channel="ThaiPBS3.th"><title lang="th">ปังหรือพัง ฟังรีวิว…</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_170000.jpg"/></programme>
+<programme start="20221005102500 +0000" stop="20221005103000 +0000" channel="ThaiPBS3.th"><title lang="th">ข.ขยับ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_172500.jpg"/></programme>
+<programme start="20221005103000 +0000" stop="20221005110000 +0000" channel="ThaiPBS3.th"><title lang="th">Come Home บ้านที่กลับมา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_173000.jpg"/></programme>
+<programme start="20221005110000 +0000" stop="20221005115000 +0000" channel="ThaiPBS3.th"><title lang="th">ท่องโลกกว้าง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_180000.jpg"/></programme>
+<programme start="20221005115000 +0000" stop="20221005133000 +0000" channel="ThaiPBS3.th"><title lang="th">ข่าวค่ำมิติใหม่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_185000.jpg"/></programme>
+<programme start="20221005133000 +0000" stop="20221005140000 +0000" channel="ThaiPBS3.th"><title lang="th">ตอบโจทย์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_203000.jpg"/></programme>
+<programme start="20221005140000 +0000" stop="20221005144500 +0000" channel="ThaiPBS3.th"><title lang="th">ทันโลก กับ ที่นี่ Thai PBS</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_210000.jpg"/></programme>
+<programme start="20221005144500 +0000" stop="20221005151500 +0000" channel="ThaiPBS3.th"><title lang="th">พื้นที่ชีวิต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_214500.jpg"/></programme>
+<programme start="20221005151500 +0000" stop="20221005153000 +0000" channel="ThaiPBS3.th"><title lang="th">เศรษฐกิจติดบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_221500.jpg"/></programme>
+<programme start="20221005153000 +0000" stop="20221005163000 +0000" channel="ThaiPBS3.th"><title lang="th">โลกหลากมิติ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_223000.jpg"/></programme>
+<programme start="20221005163000 +0000" stop="20221005170000 +0000" channel="ThaiPBS3.th"><title lang="th">ข่าวดึก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221005/20221005_233000.jpg"/></programme>
+<programme start="20221005170000 +0000" stop="20221005173000 +0000" channel="ThaiPBS3.th"><title lang="th">ดูให้รู้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_000000.jpg"/></programme>
+<programme start="20221005173000 +0000" stop="20221005180000 +0000" channel="ThaiPBS3.th"><title lang="th">Foodwork</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_003000.jpg"/></programme>
+<programme start="20221005180000 +0000" stop="20221005220000 +0000" channel="ThaiPBS3.th"><title lang="th">ปิดสถานี</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_010000.jpg"/></programme>
+<programme start="20221005220000 +0000" stop="20221006000000 +0000" channel="ThaiPBS3.th"><title lang="th">วันใหม่ ไทยพีบีเอส</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_050000.jpg"/></programme>
+<programme start="20221006000000 +0000" stop="20221006010000 +0000" channel="ThaiPBS3.th"><title lang="th">มุมการเมือง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_070000.jpg"/></programme>
+<programme start="20221006010000 +0000" stop="20221006030000 +0000" channel="ThaiPBS3.th"><title lang="th">วันใหม่วาไรตี้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_080000.jpg"/></programme>
+<programme start="20221006030000 +0000" stop="20221006033000 +0000" channel="ThaiPBS3.th"><title lang="th">ไทยบันเทิง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_100000.jpg"/></programme>
+<programme start="20221006033000 +0000" stop="20221006050000 +0000" channel="ThaiPBS3.th"><title lang="th">จับตาสถานการณ์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_103000.jpg"/></programme>
+<programme start="20221006050000 +0000" stop="20221006053000 +0000" channel="ThaiPBS3.th"><title lang="th">ตรงประเด็น</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_120000.jpg"/></programme>
+<programme start="20221006053000 +0000" stop="20221006060000 +0000" channel="ThaiPBS3.th"><title lang="th">มหาอำนาจบ้านนา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_123000.jpg"/></programme>
+<programme start="20221006060000 +0000" stop="20221006063000 +0000" channel="ThaiPBS3.th"><title lang="th">จับตารอบทิศ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_130000.jpg"/></programme>
+<programme start="20221006063000 +0000" stop="20221006070000 +0000" channel="ThaiPBS3.th"><title lang="th">คุณเล่า เราขยาย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_133000.jpg"/></programme>
+<programme start="20221006070000 +0000" stop="20221006070500 +0000" channel="ThaiPBS3.th"><title lang="th">ทันข่าว 14.00 น.</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_140000.jpg"/></programme>
+<programme start="20221006070500 +0000" stop="20221006080000 +0000" channel="ThaiPBS3.th"><title lang="th">สถานีประชาชน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_140500.jpg"/></programme>
+<programme start="20221006080000 +0000" stop="20221006080500 +0000" channel="ThaiPBS3.th"><title lang="th">ทันข่าว 15.00 น.</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_150000.jpg"/></programme>
+<programme start="20221006080500 +0000" stop="20221006083000 +0000" channel="ThaiPBS3.th"><title lang="th">คนสู้โรค</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_150500.jpg"/></programme>
+<programme start="20221006083000 +0000" stop="20221006090000 +0000" channel="ThaiPBS3.th"><title lang="th">ทุกทิศทั่วไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_153000.jpg"/></programme>
+<programme start="20221006090000 +0000" stop="20221006093000 +0000" channel="ThaiPBS3.th"><title lang="th">ข่าว 16.00 น.</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_160000.jpg"/></programme>
+<programme start="20221006093000 +0000" stop="20221006100000 +0000" channel="ThaiPBS3.th"><title lang="th">ภัตตาคารบ้านทุ่ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_163000.jpg"/></programme>
+<programme start="20221006100000 +0000" stop="20221006102500 +0000" channel="ThaiPBS3.th"><title lang="th">ปังหรือพัง ฟังรีวิว…</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_170000.jpg"/></programme>
+<programme start="20221006102500 +0000" stop="20221006103000 +0000" channel="ThaiPBS3.th"><title lang="th">ข.ขยับ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_172500.jpg"/></programme>
+<programme start="20221006103000 +0000" stop="20221006110000 +0000" channel="ThaiPBS3.th"><title lang="th">นักสืบมิวเซียม</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_173000.jpg"/></programme>
+<programme start="20221006110000 +0000" stop="20221006115000 +0000" channel="ThaiPBS3.th"><title lang="th">ท่องโลกกว้าง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_180000.jpg"/></programme>
+<programme start="20221006115000 +0000" stop="20221006133000 +0000" channel="ThaiPBS3.th"><title lang="th">ข่าวค่ำมิติใหม่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_185000.jpg"/></programme>
+<programme start="20221006133000 +0000" stop="20221006140000 +0000" channel="ThaiPBS3.th"><title lang="th">ตอบโจทย์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_203000.jpg"/></programme>
+<programme start="20221006140000 +0000" stop="20221006144500 +0000" channel="ThaiPBS3.th"><title lang="th">ทันโลก กับ ที่นี่ Thai PBS</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_210000.jpg"/></programme>
+<programme start="20221006144500 +0000" stop="20221006151500 +0000" channel="ThaiPBS3.th"><title lang="th">Big Story เรื่องใหญ่ Thai PBS</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_214500.jpg"/></programme>
+<programme start="20221006151500 +0000" stop="20221006153000 +0000" channel="ThaiPBS3.th"><title lang="th">เศรษฐกิจติดบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_221500.jpg"/></programme>
+<programme start="20221006153000 +0000" stop="20221006163000 +0000" channel="ThaiPBS3.th"><title lang="th">โลกหลากมิติ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_223000.jpg"/></programme>
+<programme start="20221006163000 +0000" stop="20221006170000 +0000" channel="ThaiPBS3.th"><title lang="th">ข่าวดึก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221006/20221006_233000.jpg"/></programme>
+<programme start="20221006170000 +0000" stop="20221006173000 +0000" channel="ThaiPBS3.th"><title lang="th">ดูให้รู้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_000000.jpg"/></programme>
+<programme start="20221006173000 +0000" stop="20221006180000 +0000" channel="ThaiPBS3.th"><title lang="th">Foodwork</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_003000.jpg"/></programme>
+<programme start="20221006180000 +0000" stop="20221006220000 +0000" channel="ThaiPBS3.th"><title lang="th">ปิดสถานี</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_010000.jpg"/></programme>
+<programme start="20221006220000 +0000" stop="20221007000000 +0000" channel="ThaiPBS3.th"><title lang="th">วันใหม่ ไทยพีบีเอส</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_050000.jpg"/></programme>
+<programme start="20221007000000 +0000" stop="20221007010000 +0000" channel="ThaiPBS3.th"><title lang="th">มุมการเมือง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_070000.jpg"/></programme>
+<programme start="20221007010000 +0000" stop="20221007030000 +0000" channel="ThaiPBS3.th"><title lang="th">วันใหม่วาไรตี้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_080000.jpg"/></programme>
+<programme start="20221007030000 +0000" stop="20221007033000 +0000" channel="ThaiPBS3.th"><title lang="th">ไทยบันเทิง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_100000.jpg"/></programme>
+<programme start="20221007033000 +0000" stop="20221007050000 +0000" channel="ThaiPBS3.th"><title lang="th">จับตาสถานการณ์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_103000.jpg"/></programme>
+<programme start="20221007050000 +0000" stop="20221007053000 +0000" channel="ThaiPBS3.th"><title lang="th">ตรงประเด็น</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_120000.jpg"/></programme>
+<programme start="20221007053000 +0000" stop="20221007060000 +0000" channel="ThaiPBS3.th"><title lang="th">มหาอำนาจบ้านนา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_123000.jpg"/></programme>
+<programme start="20221007060000 +0000" stop="20221007063000 +0000" channel="ThaiPBS3.th"><title lang="th">จับตารอบทิศ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_130000.jpg"/></programme>
+<programme start="20221007063000 +0000" stop="20221007070000 +0000" channel="ThaiPBS3.th"><title lang="th">คุณเล่า เราขยาย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_133000.jpg"/></programme>
+<programme start="20221007070000 +0000" stop="20221007070500 +0000" channel="ThaiPBS3.th"><title lang="th">ทันข่าว 14.00 น.</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_140000.jpg"/></programme>
+<programme start="20221007070500 +0000" stop="20221007080000 +0000" channel="ThaiPBS3.th"><title lang="th">สถานีประชาชน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_140500.jpg"/></programme>
+<programme start="20221007080000 +0000" stop="20221007080500 +0000" channel="ThaiPBS3.th"><title lang="th">ทันข่าว 15.00 น.</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_150000.jpg"/></programme>
+<programme start="20221007080500 +0000" stop="20221007083000 +0000" channel="ThaiPBS3.th"><title lang="th">คนสู้โรค</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_150500.jpg"/></programme>
+<programme start="20221007083000 +0000" stop="20221007090000 +0000" channel="ThaiPBS3.th"><title lang="th">ทุกทิศทั่วไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_153000.jpg"/></programme>
+<programme start="20221007090000 +0000" stop="20221007093000 +0000" channel="ThaiPBS3.th"><title lang="th">ข่าว 16.00 น.</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_160000.jpg"/></programme>
+<programme start="20221007093000 +0000" stop="20221007100000 +0000" channel="ThaiPBS3.th"><title lang="th">กินอยู่คือ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_163000.jpg"/></programme>
+<programme start="20221007100000 +0000" stop="20221007102500 +0000" channel="ThaiPBS3.th"><title lang="th">รู้เท่ารู้ทัน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_170000.jpg"/></programme>
+<programme start="20221007102500 +0000" stop="20221007103000 +0000" channel="ThaiPBS3.th"><title lang="th">ข.ขยับ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_172500.jpg"/></programme>
+<programme start="20221007103000 +0000" stop="20221007110000 +0000" channel="ThaiPBS3.th"><title lang="th">Wild Survival</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_173000.jpg"/></programme>
+<programme start="20221007110000 +0000" stop="20221007115000 +0000" channel="ThaiPBS3.th"><title lang="th">ท่องโลกกว้าง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_180000.jpg"/></programme>
+<programme start="20221007115000 +0000" stop="20221007133000 +0000" channel="ThaiPBS3.th"><title lang="th">ข่าวค่ำมิติใหม่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_185000.jpg"/></programme>
+<programme start="20221007133000 +0000" stop="20221007143000 +0000" channel="ThaiPBS3.th"><title lang="th">ตอบโจทย์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_203000.jpg"/></programme>
+<programme start="20221007143000 +0000" stop="20221007151500 +0000" channel="ThaiPBS3.th"><title lang="th">ทันโลก กับ ที่นี่ Thai PBS</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_213000.jpg"/></programme>
+<programme start="20221007151500 +0000" stop="20221007153000 +0000" channel="ThaiPBS3.th"><title lang="th">เศรษฐกิจติดบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_221500.jpg"/></programme>
+<programme start="20221007153000 +0000" stop="20221007160000 +0000" channel="ThaiPBS3.th"><title lang="th">This Week With Thai PBS World</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_223000.jpg"/></programme>
+<programme start="20221007160000 +0000" stop="20221007163000 +0000" channel="ThaiPBS3.th"><title lang="th">ที่นี่บ้านเรา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_230000.jpg"/></programme>
+<programme start="20221007163000 +0000" stop="20221007170000 +0000" channel="ThaiPBS3.th"><title lang="th">ข่าวดึก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c12/20221007/20221007_233000.jpg"/></programme>
 <programme start="20221004170000 +0000" stop="20221004220000 +0000" channel="ThaiTV5HD1.th"><title lang="th">ปิดสถานี</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c05/20221005/20221005_000000.jpg"/></programme>
 <programme start="20221004220000 +0000" stop="20221004223000 +0000" channel="ThaiTV5HD1.th"><title lang="th">มูลนิธิปิดทอง วิชาฟาร์มรู้/การ์ตูน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c05/20221005/20221005_050000.jpg"/></programme>
 <programme start="20221004223000 +0000" stop="20221004233000 +0000" channel="ThaiTV5HD1.th"><title lang="th">ช่อง 5 ข่าวเด่นเช้านี้ (สด)</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/c05/20221005/20221005_053000.jpg"/></programme>
@@ -3166,55 +3477,83 @@
 <programme start="20221007153000 +0000" stop="20221007154000 +0000" channel="TopNews.th"><title lang="th">เรื่องดีมีสุข</title></programme>
 <programme start="20221007154000 +0000" stop="20221007162500 +0000" channel="TopNews.th"><title lang="th">Top News Talk</title></programme>
 <programme start="20221007162500 +0000" stop="20221006170000 +0000" channel="TopNews.th"><title lang="th">TV DIRECT</title></programme>
-<programme start="20221005170000 +0000" stop="20221005173000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ มือปืน/โลก/พระ/จัน 2</title></programme>
-<programme start="20221005173000 +0000" stop="20221005180000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title></programme>
-<programme start="20221005180000 +0000" stop="20221005183000 +0000" channel="True4U.th"><title lang="th">TNN รู้ทันลงทุน</title></programme>
-<programme start="20221005183000 +0000" stop="20221005190000 +0000" channel="True4U.th"><title lang="th">TNN ประเด็นใหญ่</title></programme>
-<programme start="20221005190000 +0000" stop="20221005210000 +0000" channel="True4U.th"><title lang="th">TNN ข่าวค่ำ</title></programme>
-<programme start="20221005210000 +0000" stop="20221005220000 +0000" channel="True4U.th"><title lang="th">สามเณรปลูกปัญญาธรรม</title></programme>
-<programme start="20221005220000 +0000" stop="20221005223000 +0000" channel="True4U.th"><title lang="th">เครื่องเสวย ตามเสด็จไกลบ้าน</title></programme>
-<programme start="20221005223000 +0000" stop="20221005230000 +0000" channel="True4U.th"><title lang="th">ติดเขา</title></programme>
-<programme start="20221005230000 +0000" stop="20221006010000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ เขาชนไก่</title></programme>
-<programme start="20221006010000 +0000" stop="20221006010100 +0000" channel="True4U.th"><title lang="th">เพลงชาติไทย</title></programme>
-<programme start="20221006010100 +0000" stop="20221006013000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title></programme>
-<programme start="20221006013000 +0000" stop="20221006033000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ บุปผาราตรี 3.1</title></programme>
-<programme start="20221006033000 +0000" stop="20221006040000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title></programme>
-<programme start="20221006040000 +0000" stop="20221006043000 +0000" channel="True4U.th"><title lang="th">เรื่องดีดีทั่วไทย</title></programme>
-<programme start="20221006043000 +0000" stop="20221006053000 +0000" channel="True4U.th"><title lang="th">TNN ข่าวเที่ยง</title></programme>
-<programme start="20221006053000 +0000" stop="20221006072500 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ ล่ากระโจนเมือง</title></programme>
-<programme start="20221006072500 +0000" stop="20221006073500 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title></programme>
-<programme start="20221006073500 +0000" stop="20221006093000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ อุ้ยเสี่ยวป้อ เจาะเวลาทะลุโลก</title></programme>
-<programme start="20221006093000 +0000" stop="20221006110000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ บองสรันโอน: คน รัก ผี</title></programme>
-<programme start="20221006110000 +0000" stop="20221006110100 +0000" channel="True4U.th"><title lang="th">เพลงชาติไทย</title></programme>
-<programme start="20221006110100 +0000" stop="20221006131000 +0000" channel="True4U.th"><title lang="th">ศึกเพชรยินดี 2022</title></programme>
-<programme start="20221006131000 +0000" stop="20221006134000 +0000" channel="True4U.th"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
-<programme start="20221006134000 +0000" stop="20221006154500 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ ขุนแผน</title></programme>
-<programme start="20221006154500 +0000" stop="20221005170000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ เขาชนไก่</title></programme>
-<programme start="20221006170000 +0000" stop="20221006174500 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ เขาชนไก่</title></programme>
-<programme start="20221006174500 +0000" stop="20221006180000 +0000" channel="True4U.th"><title lang="th">หัวใจนักสู้ 2022</title></programme>
-<programme start="20221006180000 +0000" stop="20221006183000 +0000" channel="True4U.th"><title lang="th">TNN รู้ทันลงทุน</title></programme>
-<programme start="20221006183000 +0000" stop="20221006190000 +0000" channel="True4U.th"><title lang="th">TNN ประเด็นใหญ่</title></programme>
-<programme start="20221006190000 +0000" stop="20221006210000 +0000" channel="True4U.th"><title lang="th">TNN ข่าวค่ำ</title></programme>
-<programme start="20221006210000 +0000" stop="20221006220000 +0000" channel="True4U.th"><title lang="th">สามเณรปลูกปัญญาธรรม</title></programme>
-<programme start="20221006220000 +0000" stop="20221006223000 +0000" channel="True4U.th"><title lang="th">เครื่องเสวย ตามเสด็จไกลบ้าน</title></programme>
-<programme start="20221006223000 +0000" stop="20221006230000 +0000" channel="True4U.th"><title lang="th">ติดเขา</title></programme>
-<programme start="20221006230000 +0000" stop="20221007010000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ ตุ๊กกี้เจ้าหญิงขายกบ</title></programme>
-<programme start="20221007010000 +0000" stop="20221007010100 +0000" channel="True4U.th"><title lang="th">เพลงชาติไทย</title></programme>
-<programme start="20221007010100 +0000" stop="20221007013000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title></programme>
-<programme start="20221007013000 +0000" stop="20221007033000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ บุปผาราตรี 3.2</title></programme>
-<programme start="20221007033000 +0000" stop="20221007040000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title></programme>
-<programme start="20221007040000 +0000" stop="20221007043000 +0000" channel="True4U.th"><title lang="th">เรื่องดีดีทั่วไทย</title></programme>
-<programme start="20221007043000 +0000" stop="20221007053000 +0000" channel="True4U.th"><title lang="th">TNN ข่าวเที่ยง</title></programme>
-<programme start="20221007053000 +0000" stop="20221007072500 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ คนเหล็กล่านรก</title></programme>
-<programme start="20221007072500 +0000" stop="20221007073500 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title></programme>
-<programme start="20221007073500 +0000" stop="20221007093000 +0000" channel="True4U.th"><title lang="th">ภ.ศึกทะลุฟ้า ตระกลูหยาง</title></programme>
-<programme start="20221007093000 +0000" stop="20221007110000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ ผีโคตรๆ</title></programme>
-<programme start="20221007110000 +0000" stop="20221007110100 +0000" channel="True4U.th"><title lang="th">เพลงชาติไทย</title></programme>
-<programme start="20221007110100 +0000" stop="20221007131000 +0000" channel="True4U.th"><title lang="th">มวยมันส์วันศุกร์ 2022</title></programme>
-<programme start="20221007131000 +0000" stop="20221007134000 +0000" channel="True4U.th"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
-<programme start="20221007134000 +0000" stop="20221007154500 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ ผีห่าอโยธยา</title></programme>
-<programme start="20221007154500 +0000" stop="20221007160000 +0000" channel="True4U.th"><title lang="th">หัวใจนักสู้ 2022</title></programme>
-<programme start="20221007160000 +0000" stop="20221006170000 +0000" channel="True4U.th"><title lang="th">Before the Game</title></programme>
+<programme start="20221004173000 +0000" stop="20221004180000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_003000.jpg"/></programme>
+<programme start="20221004180000 +0000" stop="20221004183000 +0000" channel="True4U.th"><title lang="th">TNN รู้ทันลงทุน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_010000.jpg"/></programme>
+<programme start="20221004183000 +0000" stop="20221004190000 +0000" channel="True4U.th"><title lang="th">เครื่องเสวย ตามเสด็จไกลบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_013000.jpg"/></programme>
+<programme start="20221004190000 +0000" stop="20221004193000 +0000" channel="True4U.th"><title lang="th">ติดเขา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_020000.jpg"/></programme>
+<programme start="20221004193000 +0000" stop="20221004200000 +0000" channel="True4U.th"><title lang="th">TNN ประเด็นใหญ่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_023000.jpg"/></programme>
+<programme start="20221004200000 +0000" stop="20221004210000 +0000" channel="True4U.th"><title lang="th">TNN ข่าวเที่ยง 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_030000.jpg"/></programme>
+<programme start="20221004210000 +0000" stop="20221004220000 +0000" channel="True4U.th"><title lang="th">สามเณรปลูกปัญญาธรรม</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_040000.jpg"/></programme>
+<programme start="20221004220000 +0000" stop="20221004223000 +0000" channel="True4U.th"><title lang="th">เครื่องเสวย ตามเสด็จไกลบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_050000.jpg"/></programme>
+<programme start="20221004223000 +0000" stop="20221004230000 +0000" channel="True4U.th"><title lang="th">ติดเขา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_053000.jpg"/></programme>
+<programme start="20221004230000 +0000" stop="20221005010000 +0000" channel="True4U.th"><title lang="th">ภ.ผู้บ่าวไทบ้าน 3 หมาน แอนด์ เดอะ คำผาน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_060000.jpg"/></programme>
+<programme start="20221005010000 +0000" stop="20221005010105 +0000" channel="True4U.th"><title lang="th">เพลงชาติไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_080000.jpg"/></programme>
+<programme start="20221005010105 +0000" stop="20221005013000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_080100.jpg"/></programme>
+<programme start="20221005013000 +0000" stop="20221005033000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ ไฉไล</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_083000.jpg"/></programme>
+<programme start="20221005033000 +0000" stop="20221005040000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_103000.jpg"/></programme>
+<programme start="20221005040000 +0000" stop="20221005043000 +0000" channel="True4U.th"><title lang="th">เรื่องดีดีทั่วไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_110000.jpg"/></programme>
+<programme start="20221005043000 +0000" stop="20221005053000 +0000" channel="True4U.th"><title lang="th">TNN ข่าวเที่ยง 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_113000.jpg"/></programme>
+<programme start="20221005053000 +0000" stop="20221005073000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ สงครามเครื่องจักรล้างโลก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_123000.jpg"/></programme>
+<programme start="20221005073000 +0000" stop="20221005080000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_143000.jpg"/></programme>
+<programme start="20221005080000 +0000" stop="20221005100000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ คนคมล่าคม</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_150000.jpg"/></programme>
+<programme start="20221005100000 +0000" stop="20221005110000 +0000" channel="True4U.th"><title lang="th">Match Day</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_170000.jpg"/></programme>
+<programme start="20221005110000 +0000" stop="20221005110105 +0000" channel="True4U.th"><title lang="th">เพลงชาติไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_180000.jpg"/></programme>
+<programme start="20221005110105 +0000" stop="20221005130000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ แหยมยโสธร 3</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_180100.jpg"/></programme>
+<programme start="20221005130000 +0000" stop="20221005133000 +0000" channel="True4U.th"><title lang="th">ข่าวในพระราชสำนัก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_200000.jpg"/></programme>
+<programme start="20221005133000 +0000" stop="20221005153000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ เด็กหอ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_203000.jpg"/></programme>
+<programme start="20221005153000 +0000" stop="20221005173000 +0000" channel="True4U.th"><title lang="th">ภ.ผู้บ่าวไทบ้าน 3 หมาน แอนด์ เดอะ คำผาน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221005/20221005_223000.jpg"/></programme>
+<programme start="20221005173000 +0000" stop="20221005180000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_003000.jpg"/></programme>
+<programme start="20221005180000 +0000" stop="20221005183000 +0000" channel="True4U.th"><title lang="th">TNN รู้ทันลงทุน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_010000.jpg"/></programme>
+<programme start="20221005183000 +0000" stop="20221005190000 +0000" channel="True4U.th"><title lang="th">เครื่องเสวย ตามเสด็จไกลบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_013000.jpg"/></programme>
+<programme start="20221005190000 +0000" stop="20221005193000 +0000" channel="True4U.th"><title lang="th">ติดเขา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_020000.jpg"/></programme>
+<programme start="20221005193000 +0000" stop="20221005200000 +0000" channel="True4U.th"><title lang="th">TNN ประเด็นใหญ่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_023000.jpg"/></programme>
+<programme start="20221005200000 +0000" stop="20221005210000 +0000" channel="True4U.th"><title lang="th">TNN ข่าวเที่ยง 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_030000.jpg"/></programme>
+<programme start="20221005210000 +0000" stop="20221005220000 +0000" channel="True4U.th"><title lang="th">สามเณรปลูกปัญญาธรรม</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_040000.jpg"/></programme>
+<programme start="20221005220000 +0000" stop="20221005223000 +0000" channel="True4U.th"><title lang="th">เครื่องเสวย ตามเสด็จไกลบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_050000.jpg"/></programme>
+<programme start="20221005223000 +0000" stop="20221005230000 +0000" channel="True4U.th"><title lang="th">ติดเขา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_053000.jpg"/></programme>
+<programme start="20221005230000 +0000" stop="20221006010000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ รักหนูมั้ย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_060000.jpg"/></programme>
+<programme start="20221006010000 +0000" stop="20221006010105 +0000" channel="True4U.th"><title lang="th">เพลงชาติไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_080000.jpg"/></programme>
+<programme start="20221006010105 +0000" stop="20221006013000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_080100.jpg"/></programme>
+<programme start="20221006013000 +0000" stop="20221006033000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ วาไรตี้ ผีฉลุย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_083000.jpg"/></programme>
+<programme start="20221006033000 +0000" stop="20221006040000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_103000.jpg"/></programme>
+<programme start="20221006040000 +0000" stop="20221006043000 +0000" channel="True4U.th"><title lang="th">เรื่องดีดีทั่วไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_110000.jpg"/></programme>
+<programme start="20221006043000 +0000" stop="20221006053000 +0000" channel="True4U.th"><title lang="th">TNN ข่าวเที่ยง 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_113000.jpg"/></programme>
+<programme start="20221006053000 +0000" stop="20221006072500 +0000" channel="True4U.th"><title lang="th">ภ.เเซมซั่น โคตรคนจอมพลัง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_123000.jpg"/></programme>
+<programme start="20221006072500 +0000" stop="20221006073500 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_142500.jpg"/></programme>
+<programme start="20221006073500 +0000" stop="20221006093000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ ปิดเมืองล่าโจร</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_143500.jpg"/></programme>
+<programme start="20221006093000 +0000" stop="20221006110000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ หลง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_163000.jpg"/></programme>
+<programme start="20221006110000 +0000" stop="20221006110105 +0000" channel="True4U.th"><title lang="th">เพลงชาติไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_180000.jpg"/></programme>
+<programme start="20221006110105 +0000" stop="20221006131000 +0000" channel="True4U.th"><title lang="th">ศึกเพชรยินดี 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_180100.jpg"/></programme>
+<programme start="20221006131000 +0000" stop="20221006134000 +0000" channel="True4U.th"><title lang="th">ข่าวในพระราชสำนัก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_201000.jpg"/></programme>
+<programme start="20221006134000 +0000" stop="20221006154500 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ องค์บาก 3</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_204000.jpg"/></programme>
+<programme start="20221006154500 +0000" stop="20221006174500 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ รักหนูมั้ย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221006/20221006_224500.jpg"/></programme>
+<programme start="20221006174500 +0000" stop="20221006180000 +0000" channel="True4U.th"><title lang="th">หัวใจนักสู้ 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_004500.jpg"/></programme>
+<programme start="20221006180000 +0000" stop="20221006183000 +0000" channel="True4U.th"><title lang="th">TNN รู้ทันลงทุน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_010000.jpg"/></programme>
+<programme start="20221006183000 +0000" stop="20221006190000 +0000" channel="True4U.th"><title lang="th">เครื่องเสวย ตามเสด็จไกลบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_013000.jpg"/></programme>
+<programme start="20221006190000 +0000" stop="20221006193000 +0000" channel="True4U.th"><title lang="th">ติดเขา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_020000.jpg"/></programme>
+<programme start="20221006193000 +0000" stop="20221006200000 +0000" channel="True4U.th"><title lang="th">TNN ประเด็นใหญ่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_023000.jpg"/></programme>
+<programme start="20221006200000 +0000" stop="20221006210000 +0000" channel="True4U.th"><title lang="th">TNN ข่าวเที่ยง 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_030000.jpg"/></programme>
+<programme start="20221006210000 +0000" stop="20221006220000 +0000" channel="True4U.th"><title lang="th">สามเณรปลูกปัญญาธรรม</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_040000.jpg"/></programme>
+<programme start="20221006220000 +0000" stop="20221006223000 +0000" channel="True4U.th"><title lang="th">เครื่องเสวย ตามเสด็จไกลบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_050000.jpg"/></programme>
+<programme start="20221006223000 +0000" stop="20221006230000 +0000" channel="True4U.th"><title lang="th">ติดเขา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_053000.jpg"/></programme>
+<programme start="20221006230000 +0000" stop="20221007010000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ หน่าฮ่าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_060000.jpg"/></programme>
+<programme start="20221007010000 +0000" stop="20221007010105 +0000" channel="True4U.th"><title lang="th">เพลงชาติไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_080000.jpg"/></programme>
+<programme start="20221007010105 +0000" stop="20221007013000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_080100.jpg"/></programme>
+<programme start="20221007013000 +0000" stop="20221007033000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ หลวงพี่กับผีขนุน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_083000.jpg"/></programme>
+<programme start="20221007033000 +0000" stop="20221007040000 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_103000.jpg"/></programme>
+<programme start="20221007040000 +0000" stop="20221007043000 +0000" channel="True4U.th"><title lang="th">เรื่องดีดีทั่วไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_110000.jpg"/></programme>
+<programme start="20221007043000 +0000" stop="20221007053000 +0000" channel="True4U.th"><title lang="th">TNN ข่าวเที่ยง 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_113000.jpg"/></programme>
+<programme start="20221007053000 +0000" stop="20221007072500 +0000" channel="True4U.th"><title lang="th">ภ.ซิตี้ ฮันเตอร์ สายลับคาสโนเวอร์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_123000.jpg"/></programme>
+<programme start="20221007072500 +0000" stop="20221007073500 +0000" channel="True4U.th"><title lang="th">ทรูช้อปปิ้ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_142500.jpg"/></programme>
+<programme start="20221007073500 +0000" stop="20221007093000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ วิ่งปล้นฟัด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_143500.jpg"/></programme>
+<programme start="20221007093000 +0000" stop="20221007110000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ ฝัง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_163000.jpg"/></programme>
+<programme start="20221007110000 +0000" stop="20221007110105 +0000" channel="True4U.th"><title lang="th">เพลงชาติไทย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_180000.jpg"/></programme>
+<programme start="20221007110105 +0000" stop="20221007131000 +0000" channel="True4U.th"><title lang="th">มวยมันส์วันศุกร์ 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_180100.jpg"/></programme>
+<programme start="20221007131000 +0000" stop="20221007134000 +0000" channel="True4U.th"><title lang="th">ข่าวในพระราชสำนัก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_201000.jpg"/></programme>
+<programme start="20221007134000 +0000" stop="20221007154500 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ ต้มยำกุ้ง 2</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_204000.jpg"/></programme>
+<programme start="20221007154500 +0000" stop="20221007160000 +0000" channel="True4U.th"><title lang="th">หัวใจนักสู้ 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_224500.jpg"/></programme>
+<programme start="20221007160000 +0000" stop="20221007170000 +0000" channel="True4U.th"><title lang="th">Before the Game</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/207/20221007/20221007_230000.jpg"/></programme>
+
 <programme start="20221004170000 +0000" stop="20221004180000 +0000" channel="TrueAsianMore.th"><title lang="th">ยอดองครักษ์เสื้อแพร EP.46</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/081/20221005/20221005_000000.jpg"/></programme>
 <programme start="20221004180000 +0000" stop="20221004190000 +0000" channel="TrueAsianMore.th"><title lang="th">นายเย็นชากับยัยปลาหมึก EP.19</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/081/20221005/20221005_010000.jpg"/></programme>
 <programme start="20221004190000 +0000" stop="20221004200000 +0000" channel="TrueAsianMore.th"><title lang="th">Secret Garden อลเวงรักสลับร่าง EP.15</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/081/20221005/20221005_020000.jpg"/></programme>
@@ -3604,6 +3943,124 @@
 <programme start="20221007150000 +0000" stop="20221007163000 +0000" channel="TrueExploreWild.th"><title lang="th">#เซฟฉลาม</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/058/20221007/20221007_220000.jpg"/></programme>
 <programme start="20221007163000 +0000" stop="20221007170000 +0000" channel="TrueExploreWild.th"><title lang="th">มังกรเมืองตัวสุดท้าย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/058/20221007/20221007_233000.jpg"/></programme>
 
+<programme start="20221004170000 +0000" stop="20221004190000 +0000" channel="TrueFilmAsian.th"><title lang="th">พันโซรี ฝันนี้ที่รอคอย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_000000.jpg"/></programme>
+<programme start="20221004190000 +0000" stop="20221004205000 +0000" channel="TrueFilmAsian.th"><title lang="th">ดอกไม้กระดาษ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_020000.jpg"/></programme>
+<programme start="20221004205000 +0000" stop="20221004225000 +0000" channel="TrueFilmAsian.th"><title lang="th">ปริศนา…คนฆ่า</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_035000.jpg"/></programme>
+<programme start="20221004225000 +0000" stop="20221005004000 +0000" channel="TrueFilmAsian.th"><title lang="th">อันธพาล หัก ดิบ โหด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_055000.jpg"/></programme>
+<programme start="20221005004000 +0000" stop="20221005024000 +0000" channel="TrueFilmAsian.th"><title lang="th">โดราเอมอน ตอน ไดโนเสาร์ตัวใหม่ของโนบิตะ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_074000.jpg"/></programme>
+<programme start="20221005024000 +0000" stop="20221005050000 +0000" channel="TrueFilmAsian.th"><title lang="th">ทางกลับบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_094000.jpg"/></programme>
+<programme start="20221005050000 +0000" stop="20221005070000 +0000" channel="TrueFilmAsian.th"><title lang="th">รักเธอ...รักนี้...ไม่มีซิ่ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_120000.jpg"/></programme>
+<programme start="20221005070000 +0000" stop="20221005090000 +0000" channel="TrueFilmAsian.th"><title lang="th">โดราเอมอน ตอน ไดโนเสาร์ตัวใหม่ของโนบิตะ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_140000.jpg"/></programme>
+<programme start="20221005090000 +0000" stop="20221005110000 +0000" channel="TrueFilmAsian.th"><title lang="th">รักใสใสหัวใจ 3 ฤดู</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_160000.jpg"/></programme>
+<programme start="20221005110000 +0000" stop="20221005130300 +0000" channel="TrueFilmAsian.th"><title lang="th">เจ้าหญิงจอมวุ่นกับเรื่องยุ่งของชาย 4 คน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_180000.jpg"/></programme>
+<programme start="20221005130300 +0000" stop="20221005151000 +0000" channel="TrueFilmAsian.th"><title lang="th">รักแรก ฆ่าครั้งสุดท้าย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_200300.jpg"/></programme>
+<programme start="20221005151000 +0000" stop="20221005170000 +0000" channel="TrueFilmAsian.th"><title lang="th">ไซโคเมตทรี สืบพลังจิต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221005/20221005_221000.jpg"/></programme>
+<programme start="20221005170000 +0000" stop="20221005190000 +0000" channel="TrueFilmAsian.th"><title lang="th">รักสุดใจของนายซื่อตรง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_000000.jpg"/></programme>
+<programme start="20221005190000 +0000" stop="20221005212000 +0000" channel="TrueFilmAsian.th"><title lang="th">ทางกลับบ้าน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_020000.jpg"/></programme>
+<programme start="20221005212000 +0000" stop="20221005231000 +0000" channel="TrueFilmAsian.th"><title lang="th">เบื้องหลังนักแสดง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_042000.jpg"/></programme>
+<programme start="20221005231000 +0000" stop="20221006011000 +0000" channel="TrueFilmAsian.th"><title lang="th">เจ้าหญิงจอมวุ่นกับเรื่องยุ่งของชาย 4 คน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_061000.jpg"/></programme>
+<programme start="20221006011000 +0000" stop="20221006031000 +0000" channel="TrueFilmAsian.th"><title lang="th">รักแรก ฆ่าครั้งสุดท้าย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_081000.jpg"/></programme>
+<programme start="20221006031000 +0000" stop="20221006052500 +0000" channel="TrueFilmAsian.th"><title lang="th">แอส วัน เพื่อฝันที่รอคอย......</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_101000.jpg"/></programme>
+<programme start="20221006052500 +0000" stop="20221006072000 +0000" channel="TrueFilmAsian.th"><title lang="th">พันโซรี รักนี้ที่ตามหา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_122500.jpg"/></programme>
+<programme start="20221006072000 +0000" stop="20221006092000 +0000" channel="TrueFilmAsian.th"><title lang="th">รักแรก ฆ่าครั้งสุดท้าย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_142000.jpg"/></programme>
+<programme start="20221006092000 +0000" stop="20221006105000 +0000" channel="TrueFilmAsian.th"><title lang="th">ครัวซองต์ หัวใจต่างฝัน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_162000.jpg"/></programme>
+<programme start="20221006105000 +0000" stop="20221006130300 +0000" channel="TrueFilmAsian.th"><title lang="th">สาวน้อยที่หน้าประตู</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_175000.jpg"/></programme>
+<programme start="20221006130300 +0000" stop="20221006150000 +0000" channel="TrueFilmAsian.th"><title lang="th">ฝ่านรกซอมบี้คลั่ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_200300.jpg"/></programme>
+<programme start="20221006150000 +0000" stop="20221006170000 +0000" channel="TrueFilmAsian.th"><title lang="th">เด็กหญิงตู้ล็อกเกอร์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221006/20221006_220000.jpg"/></programme>
+<programme start="20221006170000 +0000" stop="20221006190000 +0000" channel="TrueFilmAsian.th"><title lang="th">มิสเตอร์เพอร์เฟค หัวใจไม่แพ้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_000000.jpg"/></programme>
+<programme start="20221006190000 +0000" stop="20221006211500 +0000" channel="TrueFilmAsian.th"><title lang="th">แอส วัน เพื่อฝันที่รอคอย......</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_020000.jpg"/></programme>
+<programme start="20221006211500 +0000" stop="20221006230000 +0000" channel="TrueFilmAsian.th"><title lang="th">ตู้นรก ไม่ได้ผุดไม่ได้เกิด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_041500.jpg"/></programme>
+<programme start="20221006230000 +0000" stop="20221007011000 +0000" channel="TrueFilmAsian.th"><title lang="th">สาวน้อยที่หน้าประตู</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_060000.jpg"/></programme>
+<programme start="20221007011000 +0000" stop="20221007031000 +0000" channel="TrueFilmAsian.th"><title lang="th">ฝ่านรกซอมบี้คลั่ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_081000.jpg"/></programme>
+<programme start="20221007031000 +0000" stop="20221007051000 +0000" channel="TrueFilmAsian.th"><title lang="th">แผนรักซินเดอเรลล่า</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_101000.jpg"/></programme>
+<programme start="20221007051000 +0000" stop="20221007071000 +0000" channel="TrueFilmAsian.th"><title lang="th">ฤดูรักเลือดเย็น</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_121000.jpg"/></programme>
+<programme start="20221007071000 +0000" stop="20221007091000 +0000" channel="TrueFilmAsian.th"><title lang="th">ฝ่านรกซอมบี้คลั่ง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_141000.jpg"/></programme>
+<programme start="20221007091000 +0000" stop="20221007111000 +0000" channel="TrueFilmAsian.th"><title lang="th">เด็กหญิงตู้ล็อกเกอร์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_161000.jpg"/></programme>
+<programme start="20221007111000 +0000" stop="20221007130300 +0000" channel="TrueFilmAsian.th"><title lang="th">ปริศนามืด ปมพยานบอด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_181000.jpg"/></programme>
+<programme start="20221007130300 +0000" stop="20221007151000 +0000" channel="TrueFilmAsian.th"><title lang="th">เดอะ เซลล์แมน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_200300.jpg"/></programme>
+<programme start="20221007151000 +0000" stop="20221007170000 +0000" channel="TrueFilmAsian.th"><title lang="th">บอสครับ ผมพร้อมลุย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t500/20221007/20221007_221000.jpg"/></programme>
+<programme start="20221004171000 +0000" stop="20221004191000 +0000" channel="TrueFilmHD.th"><title lang="th">รักโศกที่เมืองบีล</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_001000.jpg"/></programme>
+<programme start="20221004191000 +0000" stop="20221004211000 +0000" channel="TrueFilmHD.th"><title lang="th">พิศวาสลับกวีก้องโลก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_021000.jpg"/></programme>
+<programme start="20221004211000 +0000" stop="20221004232000 +0000" channel="TrueFilmHD.th"><title lang="th">พี่น้องนักฆ่า นามว่าซิสเตอร์ส</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_041000.jpg"/></programme>
+<programme start="20221004232000 +0000" stop="20221005012000 +0000" channel="TrueFilmHD.th"><title lang="th">อาชญากลปล้นโลก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_062000.jpg"/></programme>
+<programme start="20221005012000 +0000" stop="20221005030000 +0000" channel="TrueFilmHD.th"><title lang="th">อิออน ฟลักซ์ สวยเพชฌฆาต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_082000.jpg"/></programme>
+<programme start="20221005030000 +0000" stop="20221005033000 +0000" channel="TrueFilmHD.th"><title lang="th">ซีเน&apos;พ็อป 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_100000.jpg"/></programme>
+<programme start="20221005033000 +0000" stop="20221005060000 +0000" channel="TrueFilmHD.th"><title lang="th">แชปลิน หัวเราะร่า น้ำตาริน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_103000.jpg"/></programme>
+<programme start="20221005060000 +0000" stop="20221005074000 +0000" channel="TrueFilmHD.th"><title lang="th">ซอมบี้ที่รัก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_130000.jpg"/></programme>
+<programme start="20221005074000 +0000" stop="20221005092000 +0000" channel="TrueFilmHD.th"><title lang="th">ผจญนรกแดนทมิฬ 20,000 ปี</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_144000.jpg"/></programme>
+<programme start="20221005092000 +0000" stop="20221005112000 +0000" channel="TrueFilmHD.th"><title lang="th">อาชญากลปล้นโลก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_162000.jpg"/></programme>
+<programme start="20221005112000 +0000" stop="20221005130300 +0000" channel="TrueFilmHD.th"><title lang="th">อิออน ฟลักซ์ สวยเพชฌฆาต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_182000.jpg"/></programme>
+<programme start="20221005130300 +0000" stop="20221005145000 +0000" channel="TrueFilmHD.th"><title lang="th">เด๊าท์...ปริศนาเกินคาดเดา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_200300.jpg"/></programme>
+<programme start="20221005145000 +0000" stop="20221005152000 +0000" channel="TrueFilmHD.th"><title lang="th">คัมมิ่งซูน 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_215000.jpg"/></programme>
+<programme start="20221005152000 +0000" stop="20221005171000 +0000" channel="TrueFilmHD.th"><title lang="th">ลาร่า ครอฟท์ ทูมเรเดอร์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221005/20221005_222000.jpg"/></programme>
+<programme start="20221005171000 +0000" stop="20221005194000 +0000" channel="TrueFilmHD.th"><title lang="th">แชปลิน หัวเราะร่า น้ำตาริน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_001000.jpg"/></programme>
+<programme start="20221005194000 +0000" stop="20221005212000 +0000" channel="TrueFilmHD.th"><title lang="th">ซอมบี้ที่รัก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_024000.jpg"/></programme>
+<programme start="20221005212000 +0000" stop="20221005230000 +0000" channel="TrueFilmHD.th"><title lang="th">ผจญนรกแดนทมิฬ 20,000 ปี</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_042000.jpg"/></programme>
+<programme start="20221005230000 +0000" stop="20221006005000 +0000" channel="TrueFilmHD.th"><title lang="th">เด๊าท์...ปริศนาเกินคาดเดา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_060000.jpg"/></programme>
+<programme start="20221006005000 +0000" stop="20221006024000 +0000" channel="TrueFilmHD.th"><title lang="th">ลาร่า ครอฟท์ ทูมเรเดอร์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_075000.jpg"/></programme>
+<programme start="20221006024000 +0000" stop="20221006031000 +0000" channel="TrueFilmHD.th"><title lang="th">คัมมิ่งซูน 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_094000.jpg"/></programme>
+<programme start="20221006031000 +0000" stop="20221006050000 +0000" channel="TrueFilmHD.th"><title lang="th">ดึกนี้มีเฮ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_101000.jpg"/></programme>
+<programme start="20221006050000 +0000" stop="20221006070000 +0000" channel="TrueFilmHD.th"><title lang="th">ทีมข้าแน่ แค่ชื่อก็หนาว</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_120000.jpg"/></programme>
+<programme start="20221006070000 +0000" stop="20221006092000 +0000" channel="TrueFilmHD.th"><title lang="th">ชีวิตนี้ต้องชู้ต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_140000.jpg"/></programme>
+<programme start="20221006092000 +0000" stop="20221006111000 +0000" channel="TrueFilmHD.th"><title lang="th">เด๊าท์...ปริศนาเกินคาดเดา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_162000.jpg"/></programme>
+<programme start="20221006111000 +0000" stop="20221006130300 +0000" channel="TrueFilmHD.th"><title lang="th">ลาร่า ครอฟท์ ทูมเรเดอร์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_181000.jpg"/></programme>
+<programme start="20221006130300 +0000" stop="20221006151000 +0000" channel="TrueFilmHD.th"><title lang="th">ทีมพิฆาต ทะลุแดนเดือด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_200300.jpg"/></programme>
+<programme start="20221006151000 +0000" stop="20221006172000 +0000" channel="TrueFilmHD.th"><title lang="th">ผู้หญิงคนนี้ ฟรีด้า</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221006/20221006_221000.jpg"/></programme>
+<programme start="20221006172000 +0000" stop="20221006191000 +0000" channel="TrueFilmHD.th"><title lang="th">ดึกนี้มีเฮ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_002000.jpg"/></programme>
+<programme start="20221006191000 +0000" stop="20221006211000 +0000" channel="TrueFilmHD.th"><title lang="th">ทีมข้าแน่ แค่ชื่อก็หนาว</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_021000.jpg"/></programme>
+<programme start="20221006211000 +0000" stop="20221006233000 +0000" channel="TrueFilmHD.th"><title lang="th">ชีวิตนี้ต้องชู้ต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_041000.jpg"/></programme>
+<programme start="20221006233000 +0000" stop="20221007014000 +0000" channel="TrueFilmHD.th"><title lang="th">ทีมพิฆาต ทะลุแดนเดือด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_063000.jpg"/></programme>
+<programme start="20221007014000 +0000" stop="20221007035000 +0000" channel="TrueFilmHD.th"><title lang="th">ผู้หญิงคนนี้ ฟรีด้า</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_084000.jpg"/></programme>
+<programme start="20221007035000 +0000" stop="20221007053000 +0000" channel="TrueFilmHD.th"><title lang="th">ทางแยก ถนนสายอำมหิต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_105000.jpg"/></programme>
+<programme start="20221007053000 +0000" stop="20221007070000 +0000" channel="TrueFilmHD.th"><title lang="th">ชู้อำมหิต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_123000.jpg"/></programme>
+<programme start="20221007070000 +0000" stop="20221007084000 +0000" channel="TrueFilmHD.th"><title lang="th">ครอบครัวอลวน คริสมาสต์อลเวง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_140000.jpg"/></programme>
+<programme start="20221007084000 +0000" stop="20221007105000 +0000" channel="TrueFilmHD.th"><title lang="th">ทีมพิฆาต ทะลุแดนเดือด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_154000.jpg"/></programme>
+<programme start="20221007105000 +0000" stop="20221007130300 +0000" channel="TrueFilmHD.th"><title lang="th">ผู้หญิงคนนี้ ฟรีด้า</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_175000.jpg"/></programme>
+<programme start="20221007130300 +0000" stop="20221007152000 +0000" channel="TrueFilmHD.th"><title lang="th">ซีบิสกิต ม้าพิชิตโลก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_200300.jpg"/></programme>
+<programme start="20221007152000 +0000" stop="20221007172000 +0000" channel="TrueFilmHD.th"><title lang="th">แอนนี่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/176/20221007/20221007_222000.jpg"/></programme>
+
+<programme start="20221004170000 +0000" stop="20221004184000 +0000" channel="TrueFilmHD2.th"><title lang="th">คนสำหรับวันพรุ่งนี้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_000000.jpg"/></programme>
+<programme start="20221004184000 +0000" stop="20221004203000 +0000" channel="TrueFilmHD2.th"><title lang="th">คริสต์มาสป่วน แก๊งค์แม่ชวนคึก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_014000.jpg"/></programme>
+<programme start="20221004203000 +0000" stop="20221004222000 +0000" channel="TrueFilmHD2.th"><title lang="th">คู่บรรลัย ซิ่งเข้าเส้น</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_033000.jpg"/></programme>
+<programme start="20221004222000 +0000" stop="20221005003000 +0000" channel="TrueFilmHD2.th"><title lang="th">โรมิโอ + จูเลียต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_052000.jpg"/></programme>
+<programme start="20221005003000 +0000" stop="20221005022000 +0000" channel="TrueFilmHD2.th"><title lang="th">มันล่ะค่ะคุณแม่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_073000.jpg"/></programme>
+<programme start="20221005022000 +0000" stop="20221005040000 +0000" channel="TrueFilmHD2.th"><title lang="th">ทีน สปิริต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_092000.jpg"/></programme>
+<programme start="20221005040000 +0000" stop="20221005054000 +0000" channel="TrueFilmHD2.th"><title lang="th">เอคโค่ เพื่อนจักรกลสู้ทะลุจักรวาล</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_110000.jpg"/></programme>
+<programme start="20221005054000 +0000" stop="20221005072000 +0000" channel="TrueFilmHD2.th"><title lang="th">มิตรภาพไม่ต่างกัน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_124000.jpg"/></programme>
+<programme start="20221005072000 +0000" stop="20221005090000 +0000" channel="TrueFilmHD2.th"><title lang="th">วันพิพากษา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_142000.jpg"/></programme>
+<programme start="20221005090000 +0000" stop="20221005111000 +0000" channel="TrueFilmHD2.th"><title lang="th">โรมิโอ + จูเลียต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_160000.jpg"/></programme>
+<programme start="20221005111000 +0000" stop="20221005130300 +0000" channel="TrueFilmHD2.th"><title lang="th">มันล่ะค่ะคุณแม่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_181000.jpg"/></programme>
+<programme start="20221005130300 +0000" stop="20221005151000 +0000" channel="TrueFilmHD2.th"><title lang="th">รักดังฟังชัด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_200300.jpg"/></programme>
+<programme start="20221005151000 +0000" stop="20221005170000 +0000" channel="TrueFilmHD2.th"><title lang="th">ชีวิตมหัศจรรย์ ทรูแมน โชว์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221005/20221005_221000.jpg"/></programme>
+<programme start="20221005170000 +0000" stop="20221005184000 +0000" channel="TrueFilmHD2.th"><title lang="th">ทีน สปิริต</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_000000.jpg"/></programme>
+<programme start="20221005184000 +0000" stop="20221005202000 +0000" channel="TrueFilmHD2.th"><title lang="th">เอคโค่ เพื่อนจักรกลสู้ทะลุจักรวาล</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_014000.jpg"/></programme>
+<programme start="20221005202000 +0000" stop="20221005220000 +0000" channel="TrueFilmHD2.th"><title lang="th">มิตรภาพไม่ต่างกัน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_032000.jpg"/></programme>
+<programme start="20221005220000 +0000" stop="20221005234000 +0000" channel="TrueFilmHD2.th"><title lang="th">วันพิพากษา</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_050000.jpg"/></programme>
+<programme start="20221005234000 +0000" stop="20221006015000 +0000" channel="TrueFilmHD2.th"><title lang="th">รักดังฟังชัด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_064000.jpg"/></programme>
+<programme start="20221006015000 +0000" stop="20221006034000 +0000" channel="TrueFilmHD2.th"><title lang="th">ชีวิตมหัศจรรย์ ทรูแมน โชว์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_085000.jpg"/></programme>
+<programme start="20221006034000 +0000" stop="20221006052000 +0000" channel="TrueFilmHD2.th"><title lang="th">อาคันตุก๊ะป่วนโลก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_104000.jpg"/></programme>
+<programme start="20221006052000 +0000" stop="20221006070000 +0000" channel="TrueFilmHD2.th"><title lang="th">เนิร์ด...แล้วไง! มีหัวใจนะเว้ย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_122000.jpg"/></programme>
+<programme start="20221006070000 +0000" stop="20221006083000 +0000" channel="TrueFilmHD2.th"><title lang="th">นับถอยหลังสู่ความรัก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_140000.jpg"/></programme>
+<programme start="20221006083000 +0000" stop="20221006104000 +0000" channel="TrueFilmHD2.th"><title lang="th">รักดังฟังชัด</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_153000.jpg"/></programme>
+<programme start="20221006104000 +0000" stop="20221006123000 +0000" channel="TrueFilmHD2.th"><title lang="th">ชีวิตมหัศจรรย์ ทรูแมน โชว์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_174000.jpg"/></programme>
+<programme start="20221006123000 +0000" stop="20221006130300 +0000" channel="TrueFilmHD2.th"><title lang="th">ซีเน&apos;พ็อป 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_193000.jpg"/></programme>
+<programme start="20221006130300 +0000" stop="20221006150000 +0000" channel="TrueFilmHD2.th"><title lang="th">คู่ป่วนอินเทิร์นดูโอ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_200300.jpg"/></programme>
+<programme start="20221006150000 +0000" stop="20221006170000 +0000" channel="TrueFilmHD2.th"><title lang="th">วันดีดี รักนี้…มะ(หมา) จัดให้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221006/20221006_220000.jpg"/></programme>
+<programme start="20221006170000 +0000" stop="20221006184000 +0000" channel="TrueFilmHD2.th"><title lang="th">อาคันตุก๊ะป่วนโลก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_000000.jpg"/></programme>
+<programme start="20221006184000 +0000" stop="20221006202000 +0000" channel="TrueFilmHD2.th"><title lang="th">เนิร์ด...แล้วไง! มีหัวใจนะเว้ย</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_014000.jpg"/></programme>
+<programme start="20221006202000 +0000" stop="20221006215000 +0000" channel="TrueFilmHD2.th"><title lang="th">นับถอยหลังสู่ความรัก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_032000.jpg"/></programme>
+<programme start="20221006215000 +0000" stop="20221006235000 +0000" channel="TrueFilmHD2.th"><title lang="th">คู่ป่วนอินเทิร์นดูโอ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_045000.jpg"/></programme>
+<programme start="20221006235000 +0000" stop="20221007015000 +0000" channel="TrueFilmHD2.th"><title lang="th">วันดีดี รักนี้…มะ(หมา) จัดให้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_065000.jpg"/></programme>
+<programme start="20221007015000 +0000" stop="20221007022000 +0000" channel="TrueFilmHD2.th"><title lang="th">ซีเน&apos;พ็อป 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_085000.jpg"/></programme>
+<programme start="20221007022000 +0000" stop="20221007043000 +0000" channel="TrueFilmHD2.th"><title lang="th">ไถ่บาปด้วยบุญปืน</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_092000.jpg"/></programme>
+<programme start="20221007043000 +0000" stop="20221007063000 +0000" channel="TrueFilmHD2.th"><title lang="th">ห้วงลึกพิสูจน์รัก</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_113000.jpg"/></programme>
+<programme start="20221007063000 +0000" stop="20221007083000 +0000" channel="TrueFilmHD2.th"><title lang="th">หุ่นเหล็กโลกเรียกแม่</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_133000.jpg"/></programme>
+<programme start="20221007083000 +0000" stop="20221007103000 +0000" channel="TrueFilmHD2.th"><title lang="th">คู่ป่วนอินเทิร์นดูโอ</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_153000.jpg"/></programme>
+<programme start="20221007103000 +0000" stop="20221007123000 +0000" channel="TrueFilmHD2.th"><title lang="th">วันดีดี รักนี้…มะ(หมา) จัดให้</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_173000.jpg"/></programme>
+<programme start="20221007123000 +0000" stop="20221007130300 +0000" channel="TrueFilmHD2.th"><title lang="th">คัมมิ่งซูน 2022</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_193000.jpg"/></programme>
+<programme start="20221007130300 +0000" stop="20221007144000 +0000" channel="TrueFilmHD2.th"><title lang="th">พอลลี่ นกอะไร้..ร..ร พูดได้ไม่มีเบรค</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_200300.jpg"/></programme>
+<programme start="20221007144000 +0000" stop="20221007161000 +0000" channel="TrueFilmHD2.th"><title lang="th">คืนเดทพิสดาร ผิดฝาผิดตัวรั่วยกเมือง</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_214000.jpg"/></programme>
+<programme start="20221007161000 +0000" stop="20221007181000 +0000" channel="TrueFilmHD2.th"><title lang="th">ฟิฟตี้ เชดส์ ดาร์กเกอร์</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/221/20221007/20221007_231000.jpg"/></programme>
 <programme start="20221004170000 +0000" stop="20221004170100 +0000" channel="TrueKoreanMore.th"><title lang="th">เพลงสรรเสริญพระบารมี</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t506/20221005/20221005_000000.jpg"/></programme>
 <programme start="20221004170100 +0000" stop="20221004182000 +0000" channel="TrueKoreanMore.th"><title lang="th">แผนลวงบ่วงรัก EP.40</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t506/20221005/20221005_000100.jpg"/></programme>
 <programme start="20221004182000 +0000" stop="20221004194000 +0000" channel="TrueKoreanMore.th"><title lang="th">รักซ่อนเร้น EP.5</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/t506/20221005/20221005_012000.jpg"/></programme>
@@ -4215,6 +4672,125 @@
 <programme start="20221007140000 +0000" stop="20221007150000 +0000" channel="TrueXZyte.th"><title lang="th">ปริ้นซิเพิ้ลทรัมพ์การ์ด ทายซิอะไรเอ่ย EP.22</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/034/20221007/20221007_210000.jpg"/></programme>
 <programme start="20221007150000 +0000" stop="20221007160000 +0000" channel="TrueXZyte.th"><title lang="th">เจาะลึกเหตุระทึกโลก EP.3</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/034/20221007/20221007_220000.jpg"/></programme>
 <programme start="20221007160000 +0000" stop="20221007170000 +0000" channel="TrueXZyte.th"><title lang="th">มอนสตา เอ็กซ์เรย์ EP.4</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/034/20221007/20221007_230000.jpg"/></programme>
+<programme start="20221004171000 +0000" stop="20221004173500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.13</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_001000.jpg"/></programme>
+<programme start="20221004173500 +0000" stop="20221004180000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.14</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_003500.jpg"/></programme>
+<programme start="20221004180000 +0000" stop="20221004184500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.11</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_010000.jpg"/></programme>
+<programme start="20221004184500 +0000" stop="20221004193500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Pennyworth S1 EP.10</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_014500.jpg"/></programme>
+<programme start="20221004193500 +0000" stop="20221004202000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S8 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_023500.jpg"/></programme>
+<programme start="20221004202000 +0000" stop="20221004211000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">DC&apos;s Legends of Tomorrow S6 EP.7</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_032000.jpg"/></programme>
+<programme start="20221004211000 +0000" stop="20221004220000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.11</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_041000.jpg"/></programme>
+<programme start="20221004220000 +0000" stop="20221004222500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.15</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_050000.jpg"/></programme>
+<programme start="20221004222500 +0000" stop="20221004225000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.16</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_052500.jpg"/></programme>
+<programme start="20221004225000 +0000" stop="20221004234000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">DC&apos;s Legends of Tomorrow S6 EP.8</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_055000.jpg"/></programme>
+<programme start="20221004234000 +0000" stop="20221005003000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.12</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_064000.jpg"/></programme>
+<programme start="20221005003000 +0000" stop="20221005012000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S8 EP.19</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_073000.jpg"/></programme>
+<programme start="20221005012000 +0000" stop="20221005021000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Person of Interest S3 EP.6</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_082000.jpg"/></programme>
+<programme start="20221005021000 +0000" stop="20221005023500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.15</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_091000.jpg"/></programme>
+<programme start="20221005023500 +0000" stop="20221005030000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.16</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_093500.jpg"/></programme>
+<programme start="20221005030000 +0000" stop="20221005032500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.10</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_100000.jpg"/></programme>
+<programme start="20221005032500 +0000" stop="20221005035000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.11</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_102500.jpg"/></programme>
+<programme start="20221005035000 +0000" stop="20221005044000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Cleaning Lady S2 EP.3</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_105000.jpg"/></programme>
+<programme start="20221005044000 +0000" stop="20221005053000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Pennyworth S1 EP.10</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_114000.jpg"/></programme>
+<programme start="20221005053000 +0000" stop="20221005055500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.15</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_123000.jpg"/></programme>
+<programme start="20221005055500 +0000" stop="20221005062000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.16</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_125500.jpg"/></programme>
+<programme start="20221005062000 +0000" stop="20221005064500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.15</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_132000.jpg"/></programme>
+<programme start="20221005064500 +0000" stop="20221005071000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.16</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_134500.jpg"/></programme>
+<programme start="20221005071000 +0000" stop="20221005073500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.10</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_141000.jpg"/></programme>
+<programme start="20221005073500 +0000" stop="20221005080000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.11</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_143500.jpg"/></programme>
+<programme start="20221005080000 +0000" stop="20221005085000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Person of Interest S3 EP.6</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_150000.jpg"/></programme>
+<programme start="20221005085000 +0000" stop="20221005094000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S8 EP.19</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_155000.jpg"/></programme>
+<programme start="20221005094000 +0000" stop="20221005103000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">DC&apos;s Legends of Tomorrow S6 EP.8</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_164000.jpg"/></programme>
+<programme start="20221005103000 +0000" stop="20221005112000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Person of Interest S3 EP.6</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_173000.jpg"/></programme>
+<programme start="20221005112000 +0000" stop="20221005114500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.15</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_182000.jpg"/></programme>
+<programme start="20221005114500 +0000" stop="20221005121000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.16</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_184500.jpg"/></programme>
+<programme start="20221005121000 +0000" stop="20221005123500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.10</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_191000.jpg"/></programme>
+<programme start="20221005123500 +0000" stop="20221005130000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.11</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_193500.jpg"/></programme>
+<programme start="20221005130000 +0000" stop="20221005135000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Arrow S1 EP.17</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_200000.jpg"/></programme>
+<programme start="20221005135000 +0000" stop="20221005144000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Arrow S1 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_205000.jpg"/></programme>
+<programme start="20221005144000 +0000" stop="20221005150500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.15</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_214000.jpg"/></programme>
+<programme start="20221005150500 +0000" stop="20221005153000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.16</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_220500.jpg"/></programme>
+<programme start="20221005153000 +0000" stop="20221005155500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.10</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_223000.jpg"/></programme>
+<programme start="20221005155500 +0000" stop="20221005162000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.11</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_225500.jpg"/></programme>
+<programme start="20221005162000 +0000" stop="20221005171000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Arrow S1 EP.17</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221005/20221005_232000.jpg"/></programme>
+<programme start="20221005171000 +0000" stop="20221005173500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.15</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_001000.jpg"/></programme>
+<programme start="20221005173500 +0000" stop="20221005180000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.16</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_003500.jpg"/></programme>
+<programme start="20221005180000 +0000" stop="20221005185000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.12</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_010000.jpg"/></programme>
+<programme start="20221005185000 +0000" stop="20221005193500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Arrow S1 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_015000.jpg"/></programme>
+<programme start="20221005193500 +0000" stop="20221005202000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S8 EP.19</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_023500.jpg"/></programme>
+<programme start="20221005202000 +0000" stop="20221005211000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">DC&apos;s Legends of Tomorrow S6 EP.8</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_032000.jpg"/></programme>
+<programme start="20221005211000 +0000" stop="20221005220000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.12</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_041000.jpg"/></programme>
+<programme start="20221005220000 +0000" stop="20221005222500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.17</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_050000.jpg"/></programme>
+<programme start="20221005222500 +0000" stop="20221005225000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_052500.jpg"/></programme>
+<programme start="20221005225000 +0000" stop="20221005234000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">DC&apos;s Legends of Tomorrow S6 EP.9</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_055000.jpg"/></programme>
+<programme start="20221005234000 +0000" stop="20221006003000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.13</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_064000.jpg"/></programme>
+<programme start="20221006003000 +0000" stop="20221006012000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S8 EP.20</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_073000.jpg"/></programme>
+<programme start="20221006012000 +0000" stop="20221006021000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Person of Interest S3 EP.7</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_082000.jpg"/></programme>
+<programme start="20221006021000 +0000" stop="20221006023500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.17</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_091000.jpg"/></programme>
+<programme start="20221006023500 +0000" stop="20221006030000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_093500.jpg"/></programme>
+<programme start="20221006030000 +0000" stop="20221006032500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.12</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_100000.jpg"/></programme>
+<programme start="20221006032500 +0000" stop="20221006035000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.13</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_102500.jpg"/></programme>
+<programme start="20221006035000 +0000" stop="20221006044000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Arrow S1 EP.17</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_105000.jpg"/></programme>
+<programme start="20221006044000 +0000" stop="20221006053000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Arrow S1 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_114000.jpg"/></programme>
+<programme start="20221006053000 +0000" stop="20221006055500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.17</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_123000.jpg"/></programme>
+<programme start="20221006055500 +0000" stop="20221006062000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_125500.jpg"/></programme>
+<programme start="20221006062000 +0000" stop="20221006064500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.17</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_132000.jpg"/></programme>
+<programme start="20221006064500 +0000" stop="20221006071000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_134500.jpg"/></programme>
+<programme start="20221006071000 +0000" stop="20221006073500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.12</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_141000.jpg"/></programme>
+<programme start="20221006073500 +0000" stop="20221006080000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.13</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_143500.jpg"/></programme>
+<programme start="20221006080000 +0000" stop="20221006085000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Person of Interest S3 EP.7</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_150000.jpg"/></programme>
+<programme start="20221006085000 +0000" stop="20221006094000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S8 EP.20</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_155000.jpg"/></programme>
+<programme start="20221006094000 +0000" stop="20221006103000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">DC&apos;s Legends of Tomorrow S6 EP.9</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_164000.jpg"/></programme>
+<programme start="20221006103000 +0000" stop="20221006112000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Person of Interest S3 EP.7</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_173000.jpg"/></programme>
+<programme start="20221006112000 +0000" stop="20221006114500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.17</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_182000.jpg"/></programme>
+<programme start="20221006114500 +0000" stop="20221006121000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_184500.jpg"/></programme>
+<programme start="20221006121000 +0000" stop="20221006123500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.12</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_191000.jpg"/></programme>
+<programme start="20221006123500 +0000" stop="20221006130000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.13</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_193500.jpg"/></programme>
+<programme start="20221006130000 +0000" stop="20221006135000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Stargirl S3 EP.5</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_200000.jpg"/></programme>
+<programme start="20221006135000 +0000" stop="20221006144000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Kung Fu S3 EP.1</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_205000.jpg"/></programme>
+<programme start="20221006144000 +0000" stop="20221006153000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Stargirl S3 EP.5</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_214000.jpg"/></programme>
+<programme start="20221006153000 +0000" stop="20221006162000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Kung Fu S3 EP.1</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_223000.jpg"/></programme>
+<programme start="20221006162000 +0000" stop="20221006164500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.17</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_232000.jpg"/></programme>
+<programme start="20221006164500 +0000" stop="20221006171000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221006/20221006_234500.jpg"/></programme>
+<programme start="20221006171000 +0000" stop="20221006173500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.17</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_001000.jpg"/></programme>
+<programme start="20221006173500 +0000" stop="20221006180000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.18</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_003500.jpg"/></programme>
+<programme start="20221006180000 +0000" stop="20221006185000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.13</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_010000.jpg"/></programme>
+<programme start="20221006185000 +0000" stop="20221006191500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.12</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_015000.jpg"/></programme>
+<programme start="20221006191500 +0000" stop="20221006194000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S3 EP.13</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_021500.jpg"/></programme>
+<programme start="20221006194000 +0000" stop="20221006202500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S8 EP.20</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_024000.jpg"/></programme>
+<programme start="20221006202500 +0000" stop="20221006211000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">DC&apos;s Legends of Tomorrow S6 EP.9</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_032500.jpg"/></programme>
+<programme start="20221006211000 +0000" stop="20221006220000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.13</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_041000.jpg"/></programme>
+<programme start="20221006220000 +0000" stop="20221006222500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.19</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_050000.jpg"/></programme>
+<programme start="20221006222500 +0000" stop="20221006225000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.20</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_052500.jpg"/></programme>
+<programme start="20221006225000 +0000" stop="20221006234000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">DC&apos;s Legends of Tomorrow S6 EP.10</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_055000.jpg"/></programme>
+<programme start="20221006234000 +0000" stop="20221007003000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.14</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_064000.jpg"/></programme>
+<programme start="20221007003000 +0000" stop="20221007012000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gotham S1 EP.1</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_073000.jpg"/></programme>
+<programme start="20221007012000 +0000" stop="20221007021000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Person of Interest S3 EP.8</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_082000.jpg"/></programme>
+<programme start="20221007021000 +0000" stop="20221007023500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.19</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_091000.jpg"/></programme>
+<programme start="20221007023500 +0000" stop="20221007030000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.20</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_093500.jpg"/></programme>
+<programme start="20221007030000 +0000" stop="20221007032500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S4 EP.1</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_100000.jpg"/></programme>
+<programme start="20221007032500 +0000" stop="20221007035000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S4 EP.2</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_102500.jpg"/></programme>
+<programme start="20221007035000 +0000" stop="20221007044000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Stargirl S3 EP.5</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_105000.jpg"/></programme>
+<programme start="20221007044000 +0000" stop="20221007053000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Kung Fu S3 EP.1</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_114000.jpg"/></programme>
+<programme start="20221007053000 +0000" stop="20221007055500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.19</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_123000.jpg"/></programme>
+<programme start="20221007055500 +0000" stop="20221007062000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.20</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_125500.jpg"/></programme>
+<programme start="20221007062000 +0000" stop="20221007064500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.19</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_132000.jpg"/></programme>
+<programme start="20221007064500 +0000" stop="20221007071000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Animals Unleashed S1 EP.20</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_134500.jpg"/></programme>
+<programme start="20221007071000 +0000" stop="20221007073500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S4 EP.1</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_141000.jpg"/></programme>
+<programme start="20221007073500 +0000" stop="20221007080000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S4 EP.2</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_143500.jpg"/></programme>
+<programme start="20221007080000 +0000" stop="20221007085000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Person of Interest S3 EP.8</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_150000.jpg"/></programme>
+<programme start="20221007085000 +0000" stop="20221007094000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gotham S1 EP.1</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_155000.jpg"/></programme>
+<programme start="20221007094000 +0000" stop="20221007103000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">DC&apos;s Legends of Tomorrow S6 EP.10</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_164000.jpg"/></programme>
+<programme start="20221007103000 +0000" stop="20221007112000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Person of Interest S3 EP.8</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_173000.jpg"/></programme>
+<programme start="20221007112000 +0000" stop="20221007114500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.19</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_182000.jpg"/></programme>
+<programme start="20221007114500 +0000" stop="20221007121000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.20</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_184500.jpg"/></programme>
+<programme start="20221007121000 +0000" stop="20221007123500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S6 EP.1</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_191000.jpg"/></programme>
+<programme start="20221007123500 +0000" stop="20221007130000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S6 EP.2</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_193500.jpg"/></programme>
+<programme start="20221007130000 +0000" stop="20221007152000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Matrix Revolutions</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_200000.jpg"/></programme>
+<programme start="20221007152000 +0000" stop="20221007154500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S6 EP.2</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_222000.jpg"/></programme>
+<programme start="20221007154500 +0000" stop="20221007161000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Friends S6 EP.19</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_224500.jpg"/></programme>
+<programme start="20221007161000 +0000" stop="20221007164000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S4 EP.1</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_231000.jpg"/></programme>
+<programme start="20221007164000 +0000" stop="20221007171000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S4 EP.2</title><icon src="https://epgthumb.dmpcdn.com/thumbnail_large/225/20221007/20221007_234000.jpg"/></programme>
+
 <programme start="20221004170000 +0000" stop="20221004171000 +0000" channel="Workpoint23.th"><title lang="th">Amado Shopping</title></programme>
 <programme start="20221004171000 +0000" stop="20221004180000 +0000" channel="Workpoint23.th"><title lang="th">ชิงร้อยชิงล้าน ว้าวว้าวว้าว รีรัน</title></programme>
 <programme start="20221004180000 +0000" stop="20221004181000 +0000" channel="Workpoint23.th"><title lang="th">Amado Shopping</title></programme>
@@ -4311,4 +4887,42 @@
 <programme start="20221006162000 +0000" stop="20221006163000 +0000" channel="Workpoint23.th"><title lang="th">Amado Shopping</title></programme>
 <programme start="20221006163000 +0000" stop="20221006165700 +0000" channel="Workpoint23.th"><title lang="th">Song book</title></programme>
 <programme start="20221006165700 +0000" stop="20221005170000 +0000" channel="Workpoint23.th"><title lang="th">ข่าวใหม่ต้นชั่วโมง รีรัน</title></programme>
+<programme start="20221006170000 +0000" stop="20221006171000 +0000" channel="Workpoint23.th"><title lang="th">Amado Shopping</title></programme>
+<programme start="20221006171000 +0000" stop="20221006180000 +0000" channel="Workpoint23.th"><title lang="th">ชิงร้อยชิงล้าน ว้าว ว้าว ว้าว รีรัน</title></programme>
+<programme start="20221006180000 +0000" stop="20221006181000 +0000" channel="Workpoint23.th"><title lang="th">Amado Shopping</title></programme>
+<programme start="20221006181000 +0000" stop="20221006190000 +0000" channel="Workpoint23.th"><title lang="th">ปัญญาปันสุข รีรัน</title></programme>
+<programme start="20221006190000 +0000" stop="20221006191000 +0000" channel="Workpoint23.th"><title lang="th">Amado Shopping</title></programme>
+<programme start="20221006191000 +0000" stop="20221006200000 +0000" channel="Workpoint23.th"><title lang="th">หกฉากครับจารย์ รีรัน</title></programme>
+<programme start="20221006200000 +0000" stop="20221006210000 +0000" channel="Workpoint23.th"><title lang="th">ปัญญาปันสุข</title></programme>
+<programme start="20221006210000 +0000" stop="20221006212700 +0000" channel="Workpoint23.th"><title lang="th">คุยทะลุดราม่า รีรัน</title></programme>
+<programme start="20221006212700 +0000" stop="20221006213700 +0000" channel="Workpoint23.th"><title lang="th">ตั้งเตาเมาท์บันเทิง รีรัน</title></programme>
+<programme start="20221006213700 +0000" stop="20221006213900 +0000" channel="Workpoint23.th"><title lang="th">ธรรมสวัสดี</title></programme>
+<programme start="20221006213900 +0000" stop="20221006215000 +0000" channel="Workpoint23.th"><title lang="th">การ์ตูน สัมมาทิฎฐิ ทะลุมิติมายา</title></programme>
+<programme start="20221006215000 +0000" stop="20221006220000 +0000" channel="Workpoint23.th"><title lang="th">Amado Shopping</title></programme>
+<programme start="20221006220000 +0000" stop="20221006233000 +0000" channel="Workpoint23.th"><title lang="th">ตลาดข่าวเวิร์คพอยท์</title></programme>
+<programme start="20221006233000 +0000" stop="20221007010000 +0000" channel="Workpoint23.th"><title lang="th">ข่าวเช้าเวิร์คพอยท์</title></programme>
+<programme start="20221007010000 +0000" stop="20221007010100 +0000" channel="Workpoint23.th"><title lang="th">เคารพธงชาติ</title></programme>
+<programme start="20221007010100 +0000" stop="20221007014500 +0000" channel="Workpoint23.th"><title lang="th">ข่าวเช้าเวิร์คพอยท์</title></programme>
+<programme start="20221007014500 +0000" stop="20221007022000 +0000" channel="Workpoint23.th"><title lang="th">ห้องข่าวบันเทิง</title></programme>
+<programme start="20221007022000 +0000" stop="20221007052000 +0000" channel="Workpoint23.th"><title lang="th">เทปบันทึกภาพการแข่งขันวอลเลย์บอลหญิงชิงแชมป์โลก 2022 โดมินิกัน พบ เซอร์เบีย</title></programme>
+<programme start="20221007052000 +0000" stop="20221007053000 +0000" channel="Workpoint23.th"><title lang="th">ข่าวเที่ยง สดจากที่จริง</title></programme>
+<programme start="20221007053000 +0000" stop="20221007054000 +0000" channel="Workpoint23.th"><title lang="th">ของมันต้องมี Daily</title></programme>
+<programme start="20221007054000 +0000" stop="20221007062000 +0000" channel="Workpoint23.th"><title lang="th">โต๊ะหนูแหม่ม</title></programme>
+<programme start="20221007062000 +0000" stop="20221007070000 +0000" channel="Workpoint23.th"><title lang="th">ปัญญาตลาดแตก รีรัน</title></programme>
+<programme start="20221007070000 +0000" stop="20221007070300 +0000" channel="Workpoint23.th"><title lang="th">ข่าวใหม่ต้นชั่วโมง</title></programme>
+<programme start="20221007070300 +0000" stop="20221007072000 +0000" channel="Workpoint23.th"><title lang="th">ปัญญาตลาดแตก รีรัน</title></programme>
+<programme start="20221007072000 +0000" stop="20221007075000 +0000" channel="Workpoint23.th"><title lang="th">บ้านอิ่มสุข</title></programme>
+<programme start="20221007075000 +0000" stop="20221007083000 +0000" channel="Workpoint23.th"><title lang="th">ซูเปอร์หม่ำ รีรัน</title></programme>
+<programme start="20221007083000 +0000" stop="20221007091500 +0000" channel="Workpoint23.th"><title lang="th">ตั้งเตาเมาท์บันเทิง</title></programme>
+<programme start="20221007091500 +0000" stop="20221007091800 +0000" channel="Workpoint23.th"><title lang="th">ข่าวใหม่ต้นชั่วโมง</title></programme>
+<programme start="20221007091800 +0000" stop="20221007105500 +0000" channel="Workpoint23.th"><title lang="th">บรรจงชงข่าว</title></programme>
+<programme start="20221007105500 +0000" stop="20221007110000 +0000" channel="Workpoint23.th"><title lang="th">ติ่งข่าว</title></programme>
+<programme start="20221007110000 +0000" stop="20221007110100 +0000" channel="Workpoint23.th"><title lang="th">เคารพธงชาติ</title></programme>
+<programme start="20221007110100 +0000" stop="20221007120000 +0000" channel="Workpoint23.th"><title lang="th">ไมค์หมดหนี้เสี่ยงโชค</title></programme>
+<programme start="20221007120000 +0000" stop="20221007124500 +0000" channel="Workpoint23.th"><title lang="th">ปัญญาตลาดแตก</title></programme>
+<programme start="20221007124500 +0000" stop="20221007144500 +0000" channel="Workpoint23.th"><title lang="th">ถ่ายทอดสดวอลเลย์บอลหญิงชิงแชมป์โลก 2022 ไทย พบ เซอร์เบีย</title></programme>
+<programme start="20221007144500 +0000" stop="20221007150000 +0000" channel="Workpoint23.th"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
+<programme start="20221007150000 +0000" stop="20221007153000 +0000" channel="Workpoint23.th"><title lang="th">ถ่ายทอดสด มวย RWS (มวยราชดำเนิน)</title></programme>
+<programme start="20221007153000 +0000" stop="20221007153300 +0000" channel="Workpoint23.th"><title lang="th">ข่าวใหม่ต้นชั่วโมง</title></programme>
+<programme start="20221007153300 +0000" stop="20221006170000 +0000" channel="Workpoint23.th"><title lang="th">ถ่ายทอดสด มวย RWS (มวยราชดำเนิน)</title></programme>
 </tv>
