@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/natsuki26/iptv/master/guide.xml"
 
-#EXTINF:-1 tvg-id="NBT2.th" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171329/chnbt/index.m3u8
 
