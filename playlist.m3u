@@ -48,7 +48,7 @@ https://cdn6.goprimetime.info/feed/202205171329/chtrue4u/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171329/chgmm/index.m3u8
 
-#EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="Digital TV",CH 8
+#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="Digital TV",CH 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171329/ch8/index.m3u8
 
@@ -68,7 +68,7 @@ https://cdn6.goprimetime.info/feed/202205171329/chonehd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171329/chthairath/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Digital TV",CH3 HD
+#EXTINF:-1 tvg-id="Channel3HD.th" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Digital TV",CH3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171329/ch3hd/index.m3u8
 
@@ -88,7 +88,7 @@ https://cdn6.goprimetime.info/feed/202205171329/chpptvhd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.topnews.co.th/hls/topnews_720.m3u8
 
-#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-logo="https://i.imgur.com/kN4Dbhv.png" group-title="Entertainment",True Film Asia
+#EXTINF:-1 tvg-id="TrueFilmAsian.th" tvg-logo="https://i.imgur.com/kN4Dbhv.png" group-title="Entertainment",True Film Asian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truefilmasia/playlist.m3u8
 
@@ -104,11 +104,11 @@ https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/truethaifilm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/trueseries/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-logo="https://i.imgur.com/9bA4UZm.png" group-title="Entertainment",True Film 1
+#EXTINF:-1 tvg-id="TrueFilmHD.th" tvg-logo="https://i.imgur.com/9bA4UZm.png" group-title="Entertainment",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/true-filmhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueFilm2.th" tvg-logo="https://i.imgur.com/Seg3urm.png" group-title="Entertainment",True Film 2
+#EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-logo="https://i.imgur.com/Seg3urm.png" group-title="Entertainment",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8
 
@@ -160,7 +160,7 @@ https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/3bbasian/pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-axn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WarnerTV.th" tvg-logo="https://i.imgur.com/zgHNFrm.png" group-title="Entertainment",Warner TV
+#EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://i.imgur.com/zgHNFrm.png" group-title="Entertainment",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/wbtv/playlist.m3u8
 
