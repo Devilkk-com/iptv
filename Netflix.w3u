@@ -1,18 +1,17 @@
 {
  "name": "Netflix",
  "author": "ไข่เค็ม ^_^",
- "image": "": 
+ "image":"https://drive.google.com/uc?id=16Ndmmn29rEw6BJVAvVp3ZmM1qQGKXNBI", "url":https://github.com/Devilkk-com/iptv/blob/main/Netflix.w3u",
 "groups": [
 {
  "name": "Netflix Movies",
  "image": "https://drive.google.com/uc?id=16Ndmmn29rEw6BJVAvVp3ZmM1qQGKXNBI",
-"url":
+"url":"https://drive.google.com/uc?id=16WDVr1HAkaoWf7ynsvW-K6o-g4uiwjnP",
 },
 {
  "name": "Netflix Series",
- "author": "ไข่เค็ม ^_^",
  "image": "https://drive.google.com/uc?id=16Ndmmn29rEw6BJVAvVp3ZmM1qQGKXNBI",
- "url":
-}
+ "url":"https://drive.google.com/uc?id=16eBBBlIYYUiX9drOp2yo4_9y9pcQprK0",
+},
 ]
 }
