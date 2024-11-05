@@ -1,0 +1,18 @@
+{
+ "name": "Netflix",
+ "author": "ไข่เค็ม ^_^",
+ "image": "": 
+"groups": [
+{
+ "name": "Netflix Movies",
+ "image": "https://drive.google.com/uc?id=16Ndmmn29rEw6BJVAvVp3ZmM1qQGKXNBI",
+"url":
+},
+{
+ "name": "Netflix Series",
+ "author": "ไข่เค็ม ^_^",
+ "image": "https://drive.google.com/uc?id=16Ndmmn29rEw6BJVAvVp3ZmM1qQGKXNBI",
+ "url":
+}
+]
+}
